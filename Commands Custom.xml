@@ -1,0 +1,94 @@
+<Commands>
+<Admin Commands>
+Commands:
+/crew
+Adds or removes crew to currently boarded ship. Usage:
+/crew help or /crew for help
+/crew add ]profession] [rank] [level] [amount]
+/crew fill
+/crew clear
+
+/inventory also: /inv
+Modifies inventory of a player. Usage:
+/inventory turret [type] [rarity] [material] [tech] [amount]
+/inventory upgrade [script] [rarity] [amount]
+
+/price
+Prints price of currently boarded ship. Usage: /price
+
+/sethome
+Allows player to change home sector to current if friendly or own station is present. Usage: /sethome
+
+/whereis
+Gets the position of a player. Usage: /whereis [name]
+
+/list
+Lists possible variables for /inventory or /crew. Usage: 
+/list [type]
+/list help or /list for help.
+
+/agoods
+Adds goods to currently boarded ship. Usage:
+/agoods [good name] [quantity]
+
+Must capitalize all names
+Must replace spaces with _(underscore)
+Can not add more then your hold can handle
+
+/agood Steel 100
+/agood Steel_Tube 10
+
+/fighter
+Adds a fighter to the payers hanger. Usage:
+/fighter add [weapons] [rarity] [material] [tech]
+
+<!--User -->
+/showdist
+Shows distance of player to defined location in chat window.
+Usage:
+/showdist center
+/showdist home
+/showdist home [PLAYER]
+/showdist sector [XXX:YYY]
+/showdist sector [XXX:YYY] [NAME]
+
+/showdistjump
+Shows distance to registered locations after each jump as notifications.
+You can register multiple locations which will all be shown after jumps!
+Usage:
+/showdistjump center
+/showdistjump home
+/showdistjump home [PLAYER]
+/showdistjump sector [XXX:YYY]
+/showdistjump sector [XXX:YYY] [NAME]
+/showdistjump off
+
+Parameters:
+[PLAYER] = name or index of existing player
+[XXX:YYY] = coordinates value (like "321:456" or "12:-34") 
+[NAME] = name value (like "Trade1" or "SomeSector", no spaces)
+
+</Admin>
+<Pirate Spawning>
+<!-- help -->
+/spawnpirates --help
+<!-- Expample --> 
+<!-- /spawnpirates --player douglasg14b --diff 10 --scale 5 --count 1 -->
+
+<!--Pirate Spawn-->
+/spawnpirates [ --player, --difficulty, --scale, --count ]
+
+- --player is the player you wish to spawn the pirates on including yourself. Exclude this parameter to spawn a wave in your sector
+ - Valid Values:
+   - Any online player
+- --difficulty (Alias: --diff) The pirates difficulty level. This increases their armor, module, and weapon material and rarity levels
+ - Valid Values:
+   - 1 to 100
+- --scale Scales the pirates block volume. This increases their overall size as well as their turret count
+ - Valid Values:
+   - 1 to 100
+- --count The number of pirates you wish to spawn
+ - Valid Values:
+   - 1 to 25
+</Pirate>
+</Commands>
