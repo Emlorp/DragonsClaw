@@ -1,0 +1,96 @@
+2017-11-22 22-30-59| Enabled Traces: 
+2017-11-22 22-30-59| Avorion server Beta 0.14.5 r9490 running on Windows 8.1+ starting up in "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw"
+2017-11-22 22-30-59| CPU: GenuineIntel 8 Cores
+2017-11-22 22-30-59| RAM: 16GB
+2017-11-22 22-30-59| name: Emlorp's Server
+2017-11-22 22-30-59| seed: ViolentAbyss
+2017-11-22 22-30-59| port: 27000
+2017-11-22 22-30-59| max online players: 10
+2017-11-22 22-30-59| save interval: 180
+2017-11-22 22-30-59| broadcast interval: 5
+2017-11-22 22-30-59| max loaded sector time: 300
+2017-11-22 22-30-59| weak update: yes
+2017-11-22 22-30-59| worker threads: 7
+2017-11-22 22-30-59| generator threads: 2
+2017-11-22 22-30-59| script background threads: 2
+2017-11-22 22-30-59| difficulty: Normal
+2017-11-22 22-30-59| infiniteResources: no
+2017-11-22 22-30-59| collision: 1
+2017-11-22 22-30-59| access list: Blacklist
+2017-11-22 22-30-59| public: yes
+2017-11-22 22-30-59| authentication: yes
+2017-11-22 22-30-59| listed: no
+2017-11-22 22-30-59| steam networking: yes
+2017-11-22 22-30-59| server will exit once all admins logged out.
+2017-11-22 22-30-59| administrators: '' 'admin' 'admin' 'admin' 'admin' 'admin' 
+2017-11-22 22-30-59| Initializing sector database...
+2017-11-22 22-30-59| Initializing faction database...
+2017-11-22 22-30-59| Initializing galaxy...
+2017-11-22 22-30-59| Starting up 7 worker threads...
+2017-11-22 22-30-59| Starting up 2 script background threads...
+2017-11-22 22-30-59| Loading jumping entities... 
+2017-11-22 22-30-59| Loading groups...
+2017-11-22 22-30-59| Galaxy initialized.
+2017-11-22 22-30-59| Loading global variables...
+2017-11-22 22-30-59| Setting startup script...
+2017-11-22 22-30-59| Initializing networking...
+2017-11-22 22-30-59| Listed server version: 0.14.5.9490
+2017-11-22 22-30-59| Game Port: 27000
+2017-11-22 22-30-59| Steam Port: 27021
+2017-11-22 22-30-59| Steam Query Port: 27020
+2017-11-22 22-30-59| Query Port: 27003
+2017-11-22 22-30-59| 
+2017-11-22 22-30-59| Server UDP: Error receiving from 127.0.0.1, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-11-22 22-30-59| Installed Steam exception handler
+2017-11-22 22-30-59| Warning: No RCON password set. RCON disabled.
+2017-11-22 22-30-59| Server startup complete.
+2017-11-22 22-31-00| Server connected to Steam successfully
+2017-11-22 22-31-01| Server is VAC Secure!
+2017-11-22 22-31-01| Game Server Steam ID: 90112053747800065
+2017-11-22 22-31-01| OnP2PSessionRequest from 76561198034156887
+2017-11-22 22-31-05| Steam authentication confirmed for 76561198034156887
+2017-11-22 22-31-05| Authentication successful for 76561198034156887
+2017-11-22 22-31-05| Connection to player established
+2017-11-22 22-31-05| Connection accepted from 192.168.0.18:0
+2017-11-22 22-31-08| <Server> Player Emlorp joined the galaxy
+2017-11-22 22-31-08| Player logged in: Emlorp, index: 1
+2017-11-22 22-31-08| scheduled save for sector (34:-422), 0x59a7c90, entities: 319
+2017-11-22 22-31-08| saving sector (34:-422)
+2017-11-22 22-31-08| sector (34:-422) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\34_-422"
+2017-11-22 22-31-08| player events roughly every 11.86 minutes
+2017-11-22 22-31-08| Player Emlorp moved to sector (34:-422) server time taken for change: 7ms
+2017-11-22 22-31-08| scheduled save for sector (34:-422), 0x59a7c90, entities: 319
+2017-11-22 22-31-08| saving sector (34:-422)
+2017-11-22 22-31-08| sector (34:-422) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\34_-422"
+2017-11-22 22-31-22| <Server> Player Emlorp left the galaxy
+2017-11-22 22-31-22| Player logged off: Emlorp, index: 1: 
+2017-11-22 22-31-22| Server is shutting down.
+2017-11-22 22-31-22| Saving settings...
+2017-11-22 22-31-22| Saving script values...
+2017-11-22 22-31-22| Saving factions...
+2017-11-22 22-31-22| Saving sectors...
+2017-11-22 22-31-22| Saving jumping ships...
+2017-11-22 22-31-22| scheduled save for sector (0:0), 0x104e220, entities: 0
+2017-11-22 22-31-22| saving sector (0:0)
+2017-11-22 22-31-22| sector (0:0) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\jumps.dat"
+2017-11-22 22-31-22| Saving groups...
+2017-11-22 22-31-22| Saving settings...
+2017-11-22 22-31-22| waiting for unfinished sector generation jobs...
+2017-11-22 22-31-22| waiting for unfinished sector save jobs...
+2017-11-22 22-31-22| scheduled save for sector (34:-422), 0x59a7c90, entities: 319
+2017-11-22 22-31-22| saving sector (34:-422)
+2017-11-22 22-31-22| sector (34:-422) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\34_-422"
+2017-11-22 22-31-22| shutting down rcon...
+2017-11-22 22-31-22| shutting down networking...
+2017-11-22 22-31-22| Received valid shutdown message, shutting down.
+2017-11-22 22-31-22| Ending authentication session of 76561198034156887
+2017-11-22 22-31-22| UDP closed
+2017-11-22 22-31-22| Server UDP: Connection closed
+2017-11-22 22-31-22| cleaning up communicators...
+2017-11-22 22-31-22| waiting for unfinished sector generation jobs...
+2017-11-22 22-31-22| waiting for unfinished sector save jobs...
+2017-11-22 22-31-22| shutting down galaxy...
+2017-11-22 22-31-22| shutting down faction database...
+2017-11-22 22-31-22| shutting down sector database...
+2017-11-22 22-31-22| cleaning up timers...
+2017-11-22 22-31-22| Server shutdown successful.
