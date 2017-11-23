@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="4" numWrecks="0" numAsteroids="932" numStations="6" influence="57.1019974" factionIndex="2000372" deathLocation="false">
+	<coordinates x="-94" y="368"/>
+	<titles>
+		<title str="Trading Post"/>
+		<title str="${good} Collector ${size}">
+			<arg key="plural">Plankton</arg>
+			<arg key="good">Plankton</arg>
+			<arg key="size">S</arg>
+			<arg key="prefix">Plankton /* prefix */</arg>
+		</title>
+		<title str="${good} Collector ${size}">
+			<arg key="good">Water</arg>
+			<arg key="size">S</arg>
+			<arg key="prefix">Water /* prefix */</arg>
+			<arg key="plural">Water</arg>
+		</title>
+		<title str="Solar Power Plant ${size}">
+			<arg key="prefix">Energy Cell /* prefix */</arg>
+			<arg key="plural">Energy Cells</arg>
+			<arg key="good">Energy Cell</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="Solar Power Plant ${size}">
+			<arg key="prefix">Energy Cell /* prefix */</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Energy Cell</arg>
+			<arg key="plural">Energy Cells</arg>
+		</title>
+		<title str="Solar Power Plant ${size}">
+			<arg key="size">S</arg>
+			<arg key="prefix">Energy Cell /* prefix */</arg>
+			<arg key="good">Energy Cell</arg>
+			<arg key="plural">Energy Cells</arg>
+		</title>
+	</titles>
+	<wormholes/>
+	<gates>
+		<coordinates x="-96" y="365"/>
+		<coordinates x="-100" y="371"/>
+		<coordinates x="-86" y="360"/>
+	</gates>
+	<shipNumbers>
+		<ships n="4" faction="2000372"/>
+	</shipNumbers>
+</view>

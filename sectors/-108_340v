@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="0" numWrecks="0" numAsteroids="1075" numStations="1" influence="9.5170002" factionIndex="2001033" deathLocation="false">
+	<coordinates x="-108" y="340"/>
+	<titles>
+		<title str="Biotope"/>
+	</titles>
+	<wormholes/>
+	<gates>
+		<coordinates x="-105" y="333"/>
+		<coordinates x="-113" y="338"/>
+		<coordinates x="-103" y="345"/>
+	</gates>
+	<shipNumbers/>
+</view>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="6" numWrecks="0" numAsteroids="1165" numStations="7" influence="66.6189957" factionIndex="2001033" deathLocation="false">
+	<coordinates x="-113" y="338"/>
+	<titles>
+		<title str="Turret Factory"/>
+		<title str="Trading Post"/>
+		<title str="Fighter Factory"/>
+		<title str="${good} Collector ${size}">
+			<arg key="prefix">Water /* prefix */</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Water</arg>
+			<arg key="plural">Water</arg>
+		</title>
+		<title str="Resource Depot"/>
+		<title str="${good} Collector ${size}">
+			<arg key="good">Water</arg>
+			<arg key="size">S</arg>
+			<arg key="prefix">Water /* prefix */</arg>
+			<arg key="plural">Water</arg>
+		</title>
+		<title str="Gas Collector ${size}">
+			<arg key="good">Helium</arg>
+			<arg key="prefix">Helium /* prefix */</arg>
+			<arg key="plural">Helium</arg>
+			<arg key="size">S</arg>
+		</title>
+	</titles>
+	<wormholes/>
+	<gates>
+		<coordinates x="-115" y="341"/>
+		<coordinates x="-108" y="340"/>
+		<coordinates x="-117" y="335"/>
+	</gates>
+	<shipNumbers>
+		<ships n="6" faction="2001033"/>
+	</shipNumbers>
+</view>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="8" numWrecks="82" numAsteroids="2335" numStations="6" influence="57.1019974" factionIndex="2000589" deathLocation="false">
+	<coordinates x="182" y="293"/>
+	<titles>
+		<title str="${good} Mine ${size}">
+			<arg key="prefix">Lead /* prefix */</arg>
+			<arg key="size">S</arg>
+			<arg key="plural">Lead</arg>
+			<arg key="good">Lead</arg>
+		</title>
+		<title str="${good} Mine ${size}">
+			<arg key="plural">Lead</arg>
+			<arg key="prefix">Lead /* prefix */</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Lead</arg>
+		</title>
+		<title str="${good} Mine ${size}">
+			<arg key="plural">Ore</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Ore</arg>
+			<arg key="prefix">Ore /* prefix */</arg>
+		</title>
+		<title str="${good} Mine ${size}">
+			<arg key="size">S</arg>
+			<arg key="plural">Aluminium</arg>
+			<arg key="good">Aluminium</arg>
+			<arg key="prefix">Aluminium /* prefix */</arg>
+		</title>
+		<title str="Resource Depot"/>
+		<title str="Noble Metal Mine ${size}">
+			<arg key="size">S</arg>
+			<arg key="prefix">Gold /* prefix */</arg>
+			<arg key="plural">Gold</arg>
+			<arg key="good">Gold</arg>
+		</title>
+	</titles>
+	<wormholes/>
+	<gates>
+		<coordinates x="177" y="294"/>
+		<coordinates x="176" y="287"/>
+		<coordinates x="187" y="299"/>
+	</gates>
+	<shipNumbers>
+		<ships n="8" faction="2000589"/>
+	</shipNumbers>
+</view>

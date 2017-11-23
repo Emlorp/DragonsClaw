@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="6" numWrecks="0" numAsteroids="343" numStations="6" influence="57.1019974" factionIndex="2000372" deathLocation="false">
+	<coordinates x="-101" y="345"/>
+	<titles>
+		<title str="${good} Factory ${size}">
+			<arg key="size">L</arg>
+			<arg key="good">Computation Mainframe</arg>
+			<arg key="plural">Computation Mainframes</arg>
+			<arg key="prefix">Computation Mainframe /* prefix */</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="size">S</arg>
+			<arg key="prefix">Targeting System /* prefix */</arg>
+			<arg key="good">Targeting System</arg>
+			<arg key="plural">Targeting Systems</arg>
+		</title>
+		<title str="Accelerator Factory ${size}">
+			<arg key="good">Neutron Accelerator</arg>
+			<arg key="plural">Neutron Accelerators</arg>
+			<arg key="prefix">Neutron Accelerator /* prefix */</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="size">M</arg>
+			<arg key="plural">Targeting Systems</arg>
+			<arg key="prefix">Targeting System /* prefix */</arg>
+			<arg key="good">Targeting System</arg>
+		</title>
+		<title str="Resource Depot"/>
+		<title str="${good} Factory ${size}">
+			<arg key="prefix">Computation Mainframe /* prefix */</arg>
+			<arg key="plural">Computation Mainframes</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Computation Mainframe</arg>
+		</title>
+	</titles>
+	<wormholes/>
+	<gates>
+		<coordinates x="-100" y="345"/>
+		<coordinates x="-103" y="345"/>
+	</gates>
+	<shipNumbers>
+		<ships n="6" faction="2000372"/>
+	</shipNumbers>
+</view>

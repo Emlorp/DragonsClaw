@@ -2,23 +2,24 @@
 <view numCrafts="5" numWrecks="0" numAsteroids="238" numStations="8" influence="76.135994" factionIndex="2000589" deathLocation="false">
 	<coordinates x="174" y="308"/>
 	<titles>
-		<title str="Resource Depot"/>
-		<title str="${good} Extractor ${size}">
-			<arg key="plural">Minerals</arg>
-			<arg key="prefix">Mineral /* prefix */</arg>
-			<arg key="good">Mineral</arg>
+		<title str="Solar Power Plant ${size}">
+			<arg key="prefix">Energy Cell /* prefix */</arg>
 			<arg key="size">S</arg>
+			<arg key="good">Energy Cell</arg>
+			<arg key="plural">Energy Cells</arg>
 		</title>
+		<title str="Resource Depot"/>
 		<title str="${good} Mine ${size}">
 			<arg key="plural">Ore</arg>
 			<arg key="good">Ore</arg>
 			<arg key="size">L</arg>
 			<arg key="prefix">Ore /* prefix */</arg>
 		</title>
-		<title str="${good} Mine ${size}">
-			<arg key="good">Aluminium</arg>
-			<arg key="plural">Aluminium</arg>
-			<arg key="prefix">Aluminium /* prefix */</arg>
+		<title str="Fighter Factory"/>
+		<title str="${good} Extractor ${size}">
+			<arg key="plural">Minerals</arg>
+			<arg key="prefix">Mineral /* prefix */</arg>
+			<arg key="good">Mineral</arg>
 			<arg key="size">S</arg>
 		</title>
 		<title str="Solar Power Plant ${size}">
@@ -28,18 +29,17 @@
 			<arg key="plural">Energy Cells</arg>
 		</title>
 		<title str="Trading Post"/>
-		<title str="Fighter Factory"/>
-		<title str="Solar Power Plant ${size}">
-			<arg key="prefix">Energy Cell /* prefix */</arg>
+		<title str="${good} Mine ${size}">
+			<arg key="good">Aluminium</arg>
+			<arg key="plural">Aluminium</arg>
+			<arg key="prefix">Aluminium /* prefix */</arg>
 			<arg key="size">S</arg>
-			<arg key="good">Energy Cell</arg>
-			<arg key="plural">Energy Cells</arg>
 		</title>
 	</titles>
 	<wormholes/>
 	<gates>
-		<coordinates x="170" y="310"/>
 		<coordinates x="174" y="307"/>
+		<coordinates x="170" y="310"/>
 	</gates>
 	<shipNumbers>
 		<ships n="5" faction="2000589"/>

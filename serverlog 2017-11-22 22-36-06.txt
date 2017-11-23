@@ -1,0 +1,261 @@
+2017-11-22 22-36-06| Enabled Traces: 
+2017-11-22 22-36-06| Avorion server Beta 0.14.5 r9490 running on Windows 8.1+ starting up in "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw"
+2017-11-22 22-36-06| CPU: GenuineIntel 8 Cores
+2017-11-22 22-36-06| RAM: 16GB
+2017-11-22 22-36-06| name: Kingprawn's Server
+2017-11-22 22-36-06| seed: ViolentAbyss
+2017-11-22 22-36-06| port: 27000
+2017-11-22 22-36-06| max online players: 10
+2017-11-22 22-36-06| save interval: 180
+2017-11-22 22-36-06| broadcast interval: 5
+2017-11-22 22-36-06| max loaded sector time: 300
+2017-11-22 22-36-06| weak update: yes
+2017-11-22 22-36-06| worker threads: 7
+2017-11-22 22-36-06| generator threads: 2
+2017-11-22 22-36-06| script background threads: 2
+2017-11-22 22-36-06| difficulty: Normal
+2017-11-22 22-36-06| infiniteResources: no
+2017-11-22 22-36-06| collision: 1
+2017-11-22 22-36-06| access list: Blacklist
+2017-11-22 22-36-06| public: yes
+2017-11-22 22-36-06| authentication: yes
+2017-11-22 22-36-06| listed: no
+2017-11-22 22-36-06| steam networking: yes
+2017-11-22 22-36-06| server will exit once all admins logged out.
+2017-11-22 22-36-06| administrators: '' 'admin' 'admin' 'admin' 'admin' 'admin' 
+2017-11-22 22-36-06| Initializing sector database...
+2017-11-22 22-36-06| Initializing faction database...
+2017-11-22 22-36-06| Initializing galaxy...
+2017-11-22 22-36-06| Starting up 7 worker threads...
+2017-11-22 22-36-06| Starting up 2 script background threads...
+2017-11-22 22-36-06| Loading jumping entities... 
+2017-11-22 22-36-06| Loading groups...
+2017-11-22 22-36-06| Galaxy initialized.
+2017-11-22 22-36-06| Loading global variables...
+2017-11-22 22-36-06| Setting startup script...
+2017-11-22 22-36-06| Initializing networking...
+2017-11-22 22-36-06| Listed server version: 0.14.5.9490
+2017-11-22 22-36-07| Game Port: 27000
+2017-11-22 22-36-07| Steam Port: 27021
+2017-11-22 22-36-07| Steam Query Port: 27020
+2017-11-22 22-36-07| Query Port: 27003
+2017-11-22 22-36-07| 
+2017-11-22 22-36-07| Server UDP: Error receiving from 127.0.0.1, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-11-22 22-36-07| Installed Steam exception handler
+2017-11-22 22-36-07| Warning: No RCON password set. RCON disabled.
+2017-11-22 22-36-07| Server startup complete.
+2017-11-22 22-36-08| Server connected to Steam successfully
+2017-11-22 22-36-08| Server is VAC Secure!
+2017-11-22 22-36-08| Game Server Steam ID: 90112054919507969
+2017-11-22 22-36-08| OnP2PSessionRequest from 76561198052848328
+2017-11-22 22-36-12| Steam authentication confirmed for 76561198052848328
+2017-11-22 22-36-12| Authentication successful for 76561198052848328
+2017-11-22 22-36-12| Connection to player established
+2017-11-22 22-36-12| Connection accepted from 192.168.1.17:0
+2017-11-22 22-36-13| <Server> Player Kingprawn joined the galaxy
+2017-11-22 22-36-13| Player logged in: Kingprawn, index: 3
+2017-11-22 22-36-13| scheduled save for sector (-118:308), 0x77d7fa0, entities: 1865
+2017-11-22 22-36-13| saving sector (-118:308)
+2017-11-22 22-36-13| player events roughly every 11.8 minutes
+2017-11-22 22-36-13| Player Kingprawn moved to sector (-118:308) server time taken for change: 29ms
+2017-11-22 22-36-13| scheduled save for sector (-123:310), 0x142fa160, entities: 3
+2017-11-22 22-36-13| scheduled save for sector (-114:316), 0x142ff370, entities: 3
+2017-11-22 22-36-13| sector (-118:308) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-118_308"
+2017-11-22 22-36-13| saving sector (-123:310)
+2017-11-22 22-36-13| sector (-123:310) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-123_310"
+2017-11-22 22-36-13| saving sector (-114:316)
+2017-11-22 22-36-14| sector (-114:316) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-114_316"
+2017-11-22 22-36-14| scheduled save for sector (-118:308), 0x77d7fa0, entities: 1865
+2017-11-22 22-36-14| saving sector (-118:308)
+2017-11-22 22-36-14| scheduled save for sector (-109:303), 0x14300010, entities: 493
+2017-11-22 22-36-14| sector (-118:308) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-118_308"
+2017-11-22 22-36-14| saving sector (-109:303)
+2017-11-22 22-36-14| sector (-109:303) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-109_303"
+2017-11-22 22-39-06| Triggered saving of all server data.
+2017-11-22 22-39-07| scheduled save for sector (-123:310), 0x142fa160, entities: 3
+2017-11-22 22-39-07| saving sector (-123:310)
+2017-11-22 22-39-07| sector (-123:310) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-123_310"
+2017-11-22 22-39-07| scheduled save for sector (-118:308), 0x77d7fa0, entities: 1866
+2017-11-22 22-39-07| saving sector (-118:308)
+2017-11-22 22-39-07| sector (-118:308) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-118_308"
+2017-11-22 22-39-07| scheduled save for sector (-114:316), 0x142ff370, entities: 3
+2017-11-22 22-39-07| saving sector (-114:316)
+2017-11-22 22-39-07| sector (-114:316) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-114_316"
+2017-11-22 22-39-07| scheduled save for sector (-109:303), 0x14300010, entities: 515
+2017-11-22 22-39-07| saving sector (-109:303)
+2017-11-22 22-39-07| sector (-109:303) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-109_303"
+2017-11-22 22-42-06| Triggered saving of all server data.
+2017-11-22 22-42-07| scheduled save for sector (-123:310), 0x142fa160, entities: 3
+2017-11-22 22-42-07| saving sector (-123:310)
+2017-11-22 22-42-07| sector (-123:310) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-123_310"
+2017-11-22 22-42-07| scheduled save for sector (-118:308), 0x77d7fa0, entities: 1963
+2017-11-22 22-42-07| saving sector (-118:308)
+2017-11-22 22-42-07| sector (-118:308) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-118_308"
+2017-11-22 22-42-07| scheduled save for sector (-114:316), 0x142ff370, entities: 3
+2017-11-22 22-42-07| saving sector (-114:316)
+2017-11-22 22-42-07| sector (-114:316) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-114_316"
+2017-11-22 22-42-07| scheduled save for sector (-109:303), 0x14300010, entities: 434
+2017-11-22 22-42-07| saving sector (-109:303)
+2017-11-22 22-42-07| sector (-109:303) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-109_303"
+2017-11-22 22-45-07| Triggered saving of all server data.
+2017-11-22 22-45-07| scheduled save for sector (-123:310), 0x142fa160, entities: 3
+2017-11-22 22-45-07| saving sector (-123:310)
+2017-11-22 22-45-07| sector (-123:310) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-123_310"
+2017-11-22 22-45-07| scheduled save for sector (-118:308), 0x77d7fa0, entities: 1980
+2017-11-22 22-45-07| saving sector (-118:308)
+2017-11-22 22-45-07| sector (-118:308) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-118_308"
+2017-11-22 22-45-07| scheduled save for sector (-114:316), 0x142ff370, entities: 3
+2017-11-22 22-45-07| saving sector (-114:316)
+2017-11-22 22-45-07| sector (-114:316) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-114_316"
+2017-11-22 22-45-07| scheduled save for sector (-109:303), 0x14300010, entities: 434
+2017-11-22 22-45-07| saving sector (-109:303)
+2017-11-22 22-45-07| sector (-109:303) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-109_303"
+2017-11-22 22-45-39| starting event spawntravellingmerchant
+2017-11-22 22-48-07| Triggered saving of all server data.
+2017-11-22 22-48-07| scheduled save for sector (-123:310), 0x142fa160, entities: 3
+2017-11-22 22-48-07| saving sector (-123:310)
+2017-11-22 22-48-07| sector (-123:310) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-123_310"
+2017-11-22 22-48-07| scheduled save for sector (-118:308), 0x77d7fa0, entities: 1889
+2017-11-22 22-48-07| saving sector (-118:308)
+2017-11-22 22-48-07| sector (-118:308) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-118_308"
+2017-11-22 22-48-07| scheduled save for sector (-114:316), 0x142ff370, entities: 3
+2017-11-22 22-48-07| saving sector (-114:316)
+2017-11-22 22-48-07| sector (-114:316) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-114_316"
+2017-11-22 22-48-07| scheduled save for sector (-109:303), 0x14300010, entities: 433
+2017-11-22 22-48-07| saving sector (-109:303)
+2017-11-22 22-48-07| sector (-109:303) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-109_303"
+2017-11-22 22-50-45| starting event alienattack
+2017-11-22 22-51-07| Triggered saving of all server data.
+2017-11-22 22-51-07| scheduled save for sector (-123:310), 0x142fa160, entities: 3
+2017-11-22 22-51-07| saving sector (-123:310)
+2017-11-22 22-51-07| sector (-123:310) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-123_310"
+2017-11-22 22-51-07| scheduled save for sector (-118:308), 0x77d7fa0, entities: 1934
+2017-11-22 22-51-07| saving sector (-118:308)
+2017-11-22 22-51-07| sector (-118:308) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-118_308"
+2017-11-22 22-51-07| scheduled save for sector (-114:316), 0x142ff370, entities: 3
+2017-11-22 22-51-07| saving sector (-114:316)
+2017-11-22 22-51-07| sector (-114:316) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-114_316"
+2017-11-22 22-51-07| scheduled save for sector (-109:303), 0x14300010, entities: 431
+2017-11-22 22-51-07| saving sector (-109:303)
+2017-11-22 22-51-07| sector (-109:303) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-109_303"
+2017-11-22 22-54-07| Triggered saving of all server data.
+2017-11-22 22-54-07| scheduled save for sector (-123:310), 0x142fa160, entities: 3
+2017-11-22 22-54-07| saving sector (-123:310)
+2017-11-22 22-54-07| sector (-123:310) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-123_310"
+2017-11-22 22-54-07| scheduled save for sector (-118:308), 0x77d7fa0, entities: 1922
+2017-11-22 22-54-07| saving sector (-118:308)
+2017-11-22 22-54-07| sector (-118:308) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-118_308"
+2017-11-22 22-54-07| scheduled save for sector (-114:316), 0x142ff370, entities: 3
+2017-11-22 22-54-07| saving sector (-114:316)
+2017-11-22 22-54-07| sector (-114:316) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-114_316"
+2017-11-22 22-54-07| scheduled save for sector (-109:303), 0x14300010, entities: 422
+2017-11-22 22-54-07| saving sector (-109:303)
+2017-11-22 22-54-07| sector (-109:303) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-109_303"
+2017-11-22 22-55-18| scheduled save for sector (-100:412), 0x1b3ddc40, entities: 909
+2017-11-22 22-55-18| saving sector (-100:412)
+2017-11-22 22-55-18| sector (-100:412) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-100_412"
+2017-11-22 22-55-18| Player Kingprawn moved to sector (-100:412)from (-118:308) server time taken for change: 14ms
+2017-11-22 22-55-18| scheduled save for sector (-100:412), 0x1b3ddc40, entities: 914
+2017-11-22 22-55-18| saving sector (-100:412)
+2017-11-22 22-55-18| sector (-100:412) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-100_412"
+2017-11-22 22-55-18| scheduled save for sector (-118:308), 0x77d7fa0, entities: 1944
+2017-11-22 22-55-18| saving sector (-118:308)
+2017-11-22 22-55-18| scheduled save for sector (-93:412), 0x1b3d9080, entities: 652
+2017-11-22 22-55-18| scheduled save for sector (-106:411), 0x1b3e0870, entities: 2295
+2017-11-22 22-55-18| sector (-118:308) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-118_308"
+2017-11-22 22-55-18| saving sector (-93:412)
+2017-11-22 22-55-18| sector (-93:412) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-93_412"
+2017-11-22 22-55-18| saving sector (-106:411)
+2017-11-22 22-55-19| scheduled save for sector (-102:418), 0x207adec0, entities: 853
+2017-11-22 22-55-19| sector (-106:411) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-106_411"
+2017-11-22 22-55-19| saving sector (-102:418)
+2017-11-22 22-55-19| sector (-102:418) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_418"
+2017-11-22 22-55-23| scheduled save for sector (-123:310), 0x142fa160, entities: 3
+2017-11-22 22-55-23| saving sector (-123:310)
+2017-11-22 22-55-23| scheduled save for sector (-114:316), 0x142ff370, entities: 3
+2017-11-22 22-55-23| sector (-123:310) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-123_310"
+2017-11-22 22-55-23| saving sector (-114:316)
+2017-11-22 22-55-23| scheduled save for sector (-109:303), 0x14300010, entities: 422
+2017-11-22 22-55-23| sector (-114:316) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-114_316"
+2017-11-22 22-55-23| saving sector (-109:303)
+2017-11-22 22-55-23| sector (-109:303) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-109_303"
+2017-11-22 22-57-07| Triggered saving of all server data.
+2017-11-22 22-57-07| scheduled save for sector (-118:308), 0x77d7fa0, entities: 1922
+2017-11-22 22-57-07| saving sector (-118:308)
+2017-11-22 22-57-07| sector (-118:308) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-118_308"
+2017-11-22 22-57-07| scheduled save for sector (-106:411), 0x1b3e0870, entities: 2295
+2017-11-22 22-57-07| saving sector (-106:411)
+2017-11-22 22-57-07| sector (-106:411) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-106_411"
+2017-11-22 22-57-07| scheduled save for sector (-102:418), 0x207adec0, entities: 853
+2017-11-22 22-57-07| saving sector (-102:418)
+2017-11-22 22-57-07| sector (-102:418) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_418"
+2017-11-22 22-57-07| scheduled save for sector (-100:412), 0x1b3ddc40, entities: 913
+2017-11-22 22-57-07| saving sector (-100:412)
+2017-11-22 22-57-08| sector (-100:412) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-100_412"
+2017-11-22 22-57-08| scheduled save for sector (-93:412), 0x1b3d9080, entities: 652
+2017-11-22 22-57-08| saving sector (-93:412)
+2017-11-22 22-57-08| sector (-93:412) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-93_412"
+2017-11-22 22-57-42| scheduled save for sector (-93:402), 0x2949c570, entities: 422
+2017-11-22 22-57-42| saving sector (-93:402)
+2017-11-22 22-57-42| sector (-93:402) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-93_402"
+2017-11-22 22-57-42| Player Kingprawn moved to sector (-93:402)from (-100:412) server time taken for change: 10ms
+2017-11-22 22-57-42| scheduled save for sector (-93:402), 0x2949c570, entities: 427
+2017-11-22 22-57-42| saving sector (-93:402)
+2017-11-22 22-57-42| sector (-93:402) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-93_402"
+2017-11-22 22-57-42| scheduled save for sector (-100:412), 0x1b3ddc40, entities: 911
+2017-11-22 22-57-42| saving sector (-100:412)
+2017-11-22 22-57-42| sector (-100:412) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-100_412"
+2017-11-22 22-57-42| scheduled save for sector (-88:408), 0x294a3d60, entities: 1138
+2017-11-22 22-57-42| saving sector (-88:408)
+2017-11-22 22-57-43| sector (-88:408) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-88_408"
+2017-11-22 22-57-43| Generated bulletin!
+2017-11-22 22-57-47| scheduled save for sector (-93:412), 0x1b3d9080, entities: 652
+2017-11-22 22-57-47| saving sector (-93:412)
+2017-11-22 22-57-47| scheduled save for sector (-106:411), 0x1b3e0870, entities: 2295
+2017-11-22 22-57-47| sector (-93:412) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-93_412"
+2017-11-22 22-57-47| saving sector (-106:411)
+2017-11-22 22-57-47| scheduled save for sector (-102:418), 0x207adec0, entities: 853
+2017-11-22 22-57-47| sector (-106:411) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-106_411"
+2017-11-22 22-57-47| saving sector (-102:418)
+2017-11-22 22-57-47| sector (-102:418) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_418"
+2017-11-22 22-59-47| <Server> Player Kingprawn left the galaxy
+2017-11-22 22-59-47| Player logged off: Kingprawn, index: 3: 
+2017-11-22 22-59-47| Server is shutting down.
+2017-11-22 22-59-47| Saving settings...
+2017-11-22 22-59-47| Saving script values...
+2017-11-22 22-59-47| Saving factions...
+2017-11-22 22-59-47| Saving sectors...
+2017-11-22 22-59-47| Saving jumping ships...
+2017-11-22 22-59-47| scheduled save for sector (0:0), 0x104e220, entities: 0
+2017-11-22 22-59-47| saving sector (0:0)
+2017-11-22 22-59-47| sector (0:0) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\jumps.dat"
+2017-11-22 22-59-47| Saving groups...
+2017-11-22 22-59-47| Saving settings...
+2017-11-22 22-59-47| waiting for unfinished sector generation jobs...
+2017-11-22 22-59-47| waiting for unfinished sector save jobs...
+2017-11-22 22-59-47| scheduled save for sector (-118:308), 0x77d7fa0, entities: 1913
+2017-11-22 22-59-47| saving sector (-118:308)
+2017-11-22 22-59-47| Received valid shutdown message, shutting down.
+2017-11-22 22-59-47| sector (-118:308) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-118_308"
+2017-11-22 22-59-47| scheduled save for sector (-100:412), 0x1b3ddc40, entities: 911
+2017-11-22 22-59-47| saving sector (-100:412)
+2017-11-22 22-59-48| sector (-100:412) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-100_412"
+2017-11-22 22-59-48| scheduled save for sector (-93:402), 0x2949c570, entities: 435
+2017-11-22 22-59-48| saving sector (-93:402)
+2017-11-22 22-59-48| sector (-93:402) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-93_402"
+2017-11-22 22-59-48| scheduled save for sector (-88:408), 0x294a3d60, entities: 1138
+2017-11-22 22-59-48| saving sector (-88:408)
+2017-11-22 22-59-48| sector (-88:408) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-88_408"
+2017-11-22 22-59-48| shutting down rcon...
+2017-11-22 22-59-48| shutting down networking...
+2017-11-22 22-59-48| Ending authentication session of 76561198052848328
+2017-11-22 22-59-48| UDP closed
+2017-11-22 22-59-48| Server UDP: Connection closed
+2017-11-22 22-59-48| cleaning up communicators...
+2017-11-22 22-59-48| waiting for unfinished sector generation jobs...
+2017-11-22 22-59-48| waiting for unfinished sector save jobs...
+2017-11-22 22-59-48| shutting down galaxy...
+2017-11-22 22-59-48| shutting down faction database...
+2017-11-22 22-59-48| shutting down sector database...
+2017-11-22 22-59-49| cleaning up timers...
+2017-11-22 22-59-49| Server shutdown successful.

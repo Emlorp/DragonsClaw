@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="6" numWrecks="0" numAsteroids="279" numStations="7" influence="66.6189957" factionIndex="2000589" deathLocation="false">
+	<coordinates x="177" y="294"/>
+	<titles>
+		<title str="${good} Factory ${size}">
+			<arg key="plural">Processors</arg>
+			<arg key="good">Processor</arg>
+			<arg key="prefix">Processor /* prefix */</arg>
+			<arg key="size">M</arg>
+		</title>
+		<title str="Resource Depot"/>
+		<title str="${good} Factory ${size}">
+			<arg key="size">XL</arg>
+			<arg key="good">Microchip</arg>
+			<arg key="plural">Microchips</arg>
+			<arg key="prefix">Microchip /* prefix */</arg>
+		</title>
+		<title str="Trading Post"/>
+		<title str="${good} Factory ${size}">
+			<arg key="plural">Plasma Cells</arg>
+			<arg key="prefix">Plasma Cell /* prefix */</arg>
+			<arg key="good">Plasma Cell</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="Fighter Factory"/>
+		<title str="${good} Manufacturer ${size}">
+			<arg key="plural">Semi Conductors</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Semi Conductor</arg>
+			<arg key="prefix">Semi Conductor /* prefix */</arg>
+		</title>
+	</titles>
+	<wormholes/>
+	<gates>
+		<coordinates x="176" y="287"/>
+		<coordinates x="172" y="300"/>
+		<coordinates x="182" y="293"/>
+	</gates>
+	<shipNumbers>
+		<ships n="6" faction="2000589"/>
+	</shipNumbers>
+</view>

@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<view numCrafts="7" numWrecks="0" numAsteroids="659" numStations="5" influence="47.5849991" factionIndex="2000610" deathLocation="false">
+<view numCrafts="8" numWrecks="0" numAsteroids="658" numStations="5" influence="47.5849991" factionIndex="2000610" deathLocation="false">
 	<coordinates x="-100" y="412"/>
 	<titles>
-		<title str="${good} Factory ${size}">
-			<arg key="size">M</arg>
-			<arg key="good">Antigrav Unit</arg>
-			<arg key="prefix">Antigrav Unit /* prefix */</arg>
-			<arg key="plural">Antigrav Units</arg>
-		</title>
 		<title str="${good} Factory ${size}">
 			<arg key="size">S</arg>
 			<arg key="plural">Vehicles</arg>
 			<arg key="prefix">Vehicle /* prefix */</arg>
 			<arg key="good">Vehicle</arg>
 		</title>
-		<title str="Resource Depot"/>
-		<title str="${good} Factory ${size}">
-			<arg key="size">M</arg>
-			<arg key="plural">Force Generators</arg>
-			<arg key="prefix">Force Generator /* prefix */</arg>
-			<arg key="good">Force Generator</arg>
-		</title>
 		<title str="${good} Factory ${size}">
 			<arg key="good">Vehicle</arg>
 			<arg key="size">M</arg>
 			<arg key="prefix">Vehicle /* prefix */</arg>
 			<arg key="plural">Vehicles</arg>
 		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="size">M</arg>
+			<arg key="plural">Force Generators</arg>
+			<arg key="prefix">Force Generator /* prefix */</arg>
+			<arg key="good">Force Generator</arg>
+		</title>
+		<title str="Resource Depot"/>
+		<title str="${good} Factory ${size}">
+			<arg key="size">M</arg>
+			<arg key="good">Antigrav Unit</arg>
+			<arg key="prefix">Antigrav Unit /* prefix */</arg>
+			<arg key="plural">Antigrav Units</arg>
+		</title>
 	</titles>
 	<wormholes/>
 	<gates>
-		<coordinates x="-106" y="411"/>
 		<coordinates x="-102" y="418"/>
 		<coordinates x="-93" y="412"/>
+		<coordinates x="-106" y="411"/>
 	</gates>
 	<shipNumbers>
-		<ships n="7" faction="2000610"/>
+		<ships n="8" faction="2000610"/>
 	</shipNumbers>
 </view>

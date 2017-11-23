@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="7" numWrecks="12" numAsteroids="66" numStations="4" influence="38.0680008" factionIndex="2001033" deathLocation="false">
+	<coordinates x="-105" y="333"/>
+	<titles>
+		<title str="${good} Factory ${size}">
+			<arg key="plural">Vehicles</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Vehicle</arg>
+			<arg key="prefix">Vehicle /* prefix */</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="plural">Satellites</arg>
+			<arg key="prefix">Satellite /* prefix */</arg>
+			<arg key="good">Satellite</arg>
+			<arg key="size">XL</arg>
+		</title>
+		<title str="Tesla Coil Factory ${size}">
+			<arg key="prefix">Military Tesla Coil /* prefix */</arg>
+			<arg key="size">M</arg>
+			<arg key="plural">Military Tesla Coils</arg>
+			<arg key="good">Military Tesla Coil</arg>
+		</title>
+		<title str="Accelerator Factory ${size}">
+			<arg key="plural">Neutron Accelerators</arg>
+			<arg key="size">XL</arg>
+			<arg key="good">Neutron Accelerator</arg>
+			<arg key="prefix">Neutron Accelerator /* prefix */</arg>
+		</title>
+	</titles>
+	<wormholes/>
+	<gates>
+		<coordinates x="-108" y="340"/>
+		<coordinates x="-109" y="327"/>
+		<coordinates x="-98" y="332"/>
+	</gates>
+	<shipNumbers>
+		<ships n="7" faction="2001033"/>
+	</shipNumbers>
+</view>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="7" numWrecks="0" numAsteroids="589" numStations="10" influence="95.1699905" factionIndex="2000372" deathLocation="false">
+	<coordinates x="-103" y="345"/>
+	<titles>
+		<title str="Equipment Dock"/>
+		<title str="Solar Power Plant ${size}">
+			<arg key="good">Energy Cell</arg>
+			<arg key="plural">Energy Cells</arg>
+			<arg key="prefix">Energy Cell /* prefix */</arg>
+			<arg key="size">M</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="prefix">Meat /* prefix */</arg>
+			<arg key="good">Meat</arg>
+			<arg key="size">S</arg>
+			<arg key="plural">Meat</arg>
+		</title>
+		<title str="Resource Depot"/>
+		<title str="Shipyard"/>
+		<title str="Fighter Factory"/>
+		<title str="Military Outpost"/>
+		<title str="Turret Factory"/>
+		<title str="Repair Dock"/>
+		<title str="Research Station"/>
+	</titles>
+	<wormholes/>
+	<gates>
+		<coordinates x="-101" y="345"/>
+		<coordinates x="-108" y="340"/>
+		<coordinates x="-107" y="353"/>
+	</gates>
+	<shipNumbers>
+		<ships n="7" faction="2000372"/>
+	</shipNumbers>
+</view>

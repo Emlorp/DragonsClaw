@@ -6,8 +6,8 @@
 	</titles>
 	<wormholes/>
 	<gates>
-		<coordinates x="-93" y="402"/>
 		<coordinates x="-90" y="410"/>
+		<coordinates x="-93" y="402"/>
 		<coordinates x="-84" y="408"/>
 	</gates>
 	<shipNumbers>
