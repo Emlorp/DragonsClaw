@@ -2,15 +2,15 @@
 <view numCrafts="12" numWrecks="0" numAsteroids="226" numStations="9" influence="85.6529922" factionIndex="2000610" deathLocation="false">
 	<coordinates x="-93" y="402"/>
 	<titles>
+		<title str="Fighter Factory"/>
 		<title str="Repair Dock"/>
-		<title str="Shipyard"/>
 		<title str="${good} Factory ${size}">
 			<arg key="size">S</arg>
 			<arg key="good">Electro Magnet</arg>
 			<arg key="plural">Electro Magnets</arg>
 			<arg key="prefix">Electro Magnet /* prefix */</arg>
 		</title>
-		<title str="Fighter Factory"/>
+		<title str="Shipyard"/>
 		<title str="Resource Depot"/>
 		<title str="Research Station"/>
 		<title str="${good} Factory ${size}">
@@ -19,8 +19,8 @@
 			<arg key="size">M</arg>
 			<arg key="good">Metal Plate</arg>
 		</title>
-		<title str="Equipment Dock"/>
 		<title str="Military Outpost"/>
+		<title str="Equipment Dock"/>
 	</titles>
 	<wormholes/>
 	<gates>
