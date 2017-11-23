@@ -16,12 +16,14 @@
 				<command name="version"/>
 				<command name="w"/>
 				<command name="whisper"/>
+				<command name="sethome"/>
 			</commands>
 		</defaultAuthorizationGroup>
 		<authorizationGroups>
 			<group name="Moderators">
 				<commands>
-					<command name="/agoods"/>
+					<command name="showdist"/>
+					<command name="agoods"/>
 					<command name="ban"/>
 					<command name="banip"/>
 					<command name="blacklist"/>
