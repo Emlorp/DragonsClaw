@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="0" numWrecks="0" numAsteroids="330" numStations="1" influence="9.5170002" factionIndex="2000984" deathLocation="false">
+	<coordinates x="-108" y="421"/>
+	<titles>
+		<title str="Planetary Trading Post"/>
+	</titles>
+	<wormholes/>
+	<gates/>
+	<shipNumbers/>
+</view>

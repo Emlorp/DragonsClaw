@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="1" numWrecks="0" numAsteroids="1020" numStations="1" influence="9.5170002" factionIndex="2001669" deathLocation="false">
+	<coordinates x="44" y="-424"/>
+	<titles>
+		<title str="Habitat"/>
+	</titles>
+	<wormholes/>
+	<gates>
+		<coordinates x="41" y="-424"/>
+		<coordinates x="46" y="-423"/>
+		<coordinates x="48" y="-432"/>
+	</gates>
+	<shipNumbers>
+		<ships n="1" faction="2001669"/>
+	</shipNumbers>
+</view>

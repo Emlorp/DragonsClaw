@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="4" numWrecks="0" numAsteroids="986" numStations="6" influence="57.1019974" factionIndex="2000984" deathLocation="false">
+	<coordinates x="-108" y="423"/>
+	<titles>
+		<title str="Trading Post"/>
+		<title str="${good} Factory ${size}">
+			<arg key="good">Force Generator</arg>
+			<arg key="prefix">Force Generator /* prefix */</arg>
+			<arg key="size">M</arg>
+			<arg key="plural">Force Generators</arg>
+		</title>
+		<title str="Tesla Coil Factory ${size}">
+			<arg key="prefix">Military Tesla Coil /* prefix */</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Military Tesla Coil</arg>
+			<arg key="plural">Military Tesla Coils</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="prefix">Drill /* prefix */</arg>
+			<arg key="plural">Drills</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Drill</arg>
+		</title>
+		<title str="Resource Depot"/>
+		<title str="${good} Factory ${size}">
+			<arg key="size">S</arg>
+			<arg key="plural">Antigrav Units</arg>
+			<arg key="prefix">Antigrav Unit /* prefix */</arg>
+			<arg key="good">Antigrav Unit</arg>
+		</title>
+	</titles>
+	<wormholes/>
+	<gates>
+		<coordinates x="-110" y="427"/>
+		<coordinates x="-109" y="417"/>
+	</gates>
+	<shipNumbers>
+		<ships n="4" faction="2000984"/>
+	</shipNumbers>
+</view>

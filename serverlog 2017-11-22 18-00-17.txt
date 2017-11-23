@@ -1,0 +1,727 @@
+2017-11-22 18-00-17| Enabled Traces: 
+2017-11-22 18-00-17| Avorion server Beta 0.14.5 r9490 running on Windows 8.1+ starting up in "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw"
+2017-11-22 18-00-17| CPU: GenuineIntel 8 Cores
+2017-11-22 18-00-17| RAM: 16GB
+2017-11-22 18-00-17| name: Emlorp's Server
+2017-11-22 18-00-17| seed: ViolentAbyss
+2017-11-22 18-00-17| port: 27000
+2017-11-22 18-00-17| max online players: 10
+2017-11-22 18-00-17| save interval: 600
+2017-11-22 18-00-17| broadcast interval: 5
+2017-11-22 18-00-17| max loaded sector time: 300
+2017-11-22 18-00-17| weak update: yes
+2017-11-22 18-00-17| worker threads: 7
+2017-11-22 18-00-17| generator threads: 2
+2017-11-22 18-00-17| script background threads: 2
+2017-11-22 18-00-17| difficulty: Normal
+2017-11-22 18-00-17| infiniteResources: no
+2017-11-22 18-00-17| collision: 1
+2017-11-22 18-00-17| access list: Blacklist
+2017-11-22 18-00-17| public: yes
+2017-11-22 18-00-17| authentication: yes
+2017-11-22 18-00-17| listed: no
+2017-11-22 18-00-17| steam networking: yes
+2017-11-22 18-00-17| server will exit once all admins logged out.
+2017-11-22 18-00-17| administrators: '' 'admin' 'admin' 'admin' 'admin' 'admin' 
+2017-11-22 18-00-17| Initializing sector database...
+2017-11-22 18-00-17| Initializing faction database...
+2017-11-22 18-00-17| Initializing galaxy...
+2017-11-22 18-00-17| Starting up 7 worker threads...
+2017-11-22 18-00-17| Starting up 2 script background threads...
+2017-11-22 18-00-17| Loading jumping entities... 
+2017-11-22 18-00-17| Loading groups...
+2017-11-22 18-00-17| Galaxy initialized.
+2017-11-22 18-00-17| Loading global variables...
+2017-11-22 18-00-17| Setting startup script...
+2017-11-22 18-00-17| Initializing networking...
+2017-11-22 18-00-17| Listed server version: 0.14.5.9490
+2017-11-22 18-00-17| Game Port: 27000
+2017-11-22 18-00-17| Steam Port: 27021
+2017-11-22 18-00-17| Steam Query Port: 27020
+2017-11-22 18-00-17| Query Port: 27003
+2017-11-22 18-00-17| 
+2017-11-22 18-00-17| Server UDP: Error receiving from 127.0.0.1, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-11-22 18-00-17| Installed Steam exception handler
+2017-11-22 18-00-17| Warning: No RCON password set. RCON disabled.
+2017-11-22 18-00-17| Server startup complete.
+2017-11-22 18-00-18| Server connected to Steam successfully
+2017-11-22 18-00-18| Server is VAC Secure!
+2017-11-22 18-00-18| Game Server Steam ID: 90112051680166919
+2017-11-22 18-00-19| OnP2PSessionRequest from 76561198034156887
+2017-11-22 18-00-23| OnP2PSessionRequest from 76561198133037250
+2017-11-22 18-00-23| Steam authentication confirmed for 76561198034156887
+2017-11-22 18-00-23| Authentication successful for 76561198034156887
+2017-11-22 18-00-23| Connection to player established
+2017-11-22 18-00-23| Connection accepted from 192.168.0.18:0
+2017-11-22 18-00-24| <Server> Player Emlorp joined the galaxy
+2017-11-22 18-00-24| Player logged in: Emlorp, index: 1
+2017-11-22 18-00-24| scheduled save for sector (-105:437), 0x69725c0, entities: 1547
+2017-11-22 18-00-24| saving sector (-105:437)
+2017-11-22 18-00-24| player events roughly every 11.77 minutes
+2017-11-22 18-00-24| Player Emlorp moved to sector (-105:437) server time taken for change: 32ms
+2017-11-22 18-00-25| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 18-00-25| scheduled save for sector (-105:437), 0x69725c0, entities: 1544
+2017-11-22 18-00-25| saving sector (-105:437)
+2017-11-22 18-00-25| scheduled save for sector (-102:442), 0x1309c2f0, entities: 224
+2017-11-22 18-00-25| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 18-00-25| saving sector (-102:442)
+2017-11-22 18-00-25| sector (-102:442) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_442"
+2017-11-22 18-00-25| scheduled save for sector (-102:432), 0x123fb5c0, entities: 1362
+2017-11-22 18-00-25| saving sector (-102:432)
+2017-11-22 18-00-25| scheduled save for sector (-110:432), 0x1309a9b0, entities: 1824
+2017-11-22 18-00-25| sector (-102:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_432"
+2017-11-22 18-00-25| saving sector (-110:432)
+2017-11-22 18-00-26| sector (-110:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_432"
+2017-11-22 18-00-30| Steam authentication confirmed for 76561198133037250
+2017-11-22 18-00-30| Authentication successful for 76561198133037250
+2017-11-22 18-00-30| Connection to player established
+2017-11-22 18-00-30| Connection accepted from 86.24.138.175:0
+2017-11-22 18-00-33| New Player registered: 76561198133037250 [Marshmallowsam] index: 5
+2017-11-22 18-00-33| <Server> Player Marshmallowsam created!
+2017-11-22 18-00-33| <Server> Player Marshmallowsam joined the galaxy
+2017-11-22 18-00-33| Player logged in: Marshmallowsam, index: 5
+2017-11-22 18-00-33| player events roughly every 11.55 minutes
+2017-11-22 18-00-33| Player Marshmallowsam moved to sector (-105:437) server time taken for change: 29ms
+2017-11-22 18-00-33| scheduled save for sector (-105:437), 0x69725c0, entities: 1547
+2017-11-22 18-00-33| saving sector (-105:437)
+2017-11-22 18-00-34| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 18-01-14| Emlorp's Drone was destroyed by Marshmallowsam in sector (-105:437)
+2017-11-22 18-01-14| <> Your ship was destroyed.
+2017-11-22 18-01-14| <> Your ship was destroyed.
+2017-11-22 18-01-23| Marshmallowsam's Drone was destroyed by Emlorp in sector (-105:437)
+2017-11-22 18-01-23| <> Your ship was destroyed.
+2017-11-22 18-01-23| <> Your ship was destroyed.
+2017-11-22 18-01-24| OnP2PSessionRequest from 76561198112356464
+2017-11-22 18-01-26| <> You have no sector selected.
+2017-11-22 18-01-26| OnP2PSessionRequest from 76561198052848328
+2017-11-22 18-01-28| Steam authentication confirmed for 76561198112356464
+2017-11-22 18-01-28| Authentication successful for 76561198112356464
+2017-11-22 18-01-28| Connection to player established
+2017-11-22 18-01-28| Connection accepted from 73.12.213.184:0
+2017-11-22 18-01-29| <Server> Player CoolRanch joined the galaxy
+2017-11-22 18-01-29| Player logged in: CoolRanch, index: 4
+2017-11-22 18-01-29| player events roughly every 12.17 minutes
+2017-11-22 18-01-29| Player CoolRanch moved to sector (-105:437) server time taken for change: 30ms
+2017-11-22 18-01-29| scheduled save for sector (-105:437), 0x69725c0, entities: 1554
+2017-11-22 18-01-29| saving sector (-105:437)
+2017-11-22 18-01-30| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 18-01-31| Steam authentication confirmed for 76561198052848328
+2017-11-22 18-01-31| Authentication successful for 76561198052848328
+2017-11-22 18-01-31| Connection to player established
+2017-11-22 18-01-31| Connection accepted from 198.27.242.232:0
+2017-11-22 18-01-31| <Server> Player Kingprawn joined the galaxy
+2017-11-22 18-01-31| Player logged in: Kingprawn, index: 3
+2017-11-22 18-01-31| player events roughly every 10.96 minutes
+2017-11-22 18-01-31| Player Kingprawn moved to sector (-105:437) server time taken for change: 29ms
+2017-11-22 18-01-31| scheduled save for sector (-105:437), 0x69725c0, entities: 1557
+2017-11-22 18-01-31| saving sector (-105:437)
+2017-11-22 18-01-32| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 18-01-41| CoolRanch's Drone was destroyed by Marshmallowsam in sector (-105:437)
+2017-11-22 18-01-41| <> Your ship was destroyed.
+2017-11-22 18-01-41| <> Your ship was destroyed.
+2017-11-22 18-01-43| Kingprawn's Drone was destroyed by Emlorp in sector (-105:437)
+2017-11-22 18-01-43| <> Your ship was destroyed.
+2017-11-22 18-01-43| <> Your ship was destroyed.
+2017-11-22 18-01-43| Kingprawn's Drone was destroyed by Emlorp in sector (-105:437)
+2017-11-22 18-01-43| <> Your ship was destroyed.
+2017-11-22 18-01-43| <> Your ship was destroyed.
+2017-11-22 18-01-48| CoolRanch's Drone was destroyed by Emlorp in sector (-105:437)
+2017-11-22 18-01-48| <> Your ship was destroyed.
+2017-11-22 18-01-48| <> Your ship was destroyed.
+2017-11-22 18-01-48| <> You have no sector selected.
+2017-11-22 18-01-48| CoolRanch's Drone was destroyed by Emlorp in sector (-105:437)
+2017-11-22 18-01-48| <> Your ship was destroyed.
+2017-11-22 18-01-48| <> Your ship was destroyed.
+2017-11-22 18-01-48| <> You have no sector selected.
+2017-11-22 18-01-48| Kingprawn's Drone was destroyed by Emlorp in sector (-105:437)
+2017-11-22 18-01-48| <> Your ship was destroyed.
+2017-11-22 18-01-48| <> Your ship was destroyed.
+2017-11-22 18-01-49| CoolRanch's Drone was destroyed by Marshmallowsam in sector (-105:437)
+2017-11-22 18-01-49| <> Your ship was destroyed.
+2017-11-22 18-01-49| <> Your ship was destroyed.
+2017-11-22 18-01-49| KingprawnCoolRanch's Drone was destroyed by Emlorp in sector (-105:437)'s Drone was destroyed by Marshmallowsam in sector (-105:437)
+2017-11-22 18-01-49| <> Your ship was destroyed.
+2017-11-22 18-01-49| 
+2017-11-22 18-01-49| <> Your ship was destroyed.
+2017-11-22 18-01-49| <> Your ship was destroyed.
+2017-11-22 18-01-49| <> Your ship was destroyed.
+2017-11-22 18-01-49| CoolRanch's Drone was destroyed by Marshmallowsam in sector (-105:437)
+2017-11-22 18-01-49| <> Your ship was destroyed.
+2017-11-22 18-01-49| <> Your ship was destroyed.
+2017-11-22 18-01-50| Kingprawn's Drone was destroyed by Emlorp in sector (-105:437)
+2017-11-22 18-01-50| <> Your ship was destroyed.
+2017-11-22 18-01-50| <> Your ship was destroyed.
+2017-11-22 18-01-50| <> You have no sector selected.
+2017-11-22 18-01-50| CoolRanch's Drone was destroyed by Emlorp in sector (-105:437)
+2017-11-22 18-01-50| <> Your ship was destroyed.
+2017-11-22 18-01-50| <> Your ship was destroyed.
+2017-11-22 18-01-50| Kingprawn's Drone was destroyed by Emlorp in sector (-105:437)
+2017-11-22 18-01-50| <> Your ship was destroyed.
+2017-11-22 18-01-50| <> Your ship was destroyed.
+2017-11-22 18-01-51| CoolRanch's Drone was destroyed by Emlorp in sector (-105:437)
+2017-11-22 18-01-51| <> Your ship was destroyed.
+2017-11-22 18-01-51| <> Your ship was destroyed.
+2017-11-22 18-01-52| CoolRanch's Drone was destroyed by Marshmallowsam in sector (-105:437)
+2017-11-22 18-01-52| <> Your ship was destroyed.
+2017-11-22 18-01-52| <> Your ship was destroyed.
+2017-11-22 18-01-52| CoolRanch's Drone was destroyed by Marshmallowsam in sector (-105:437)
+2017-11-22 18-01-52| <> Your ship was destroyed.
+2017-11-22 18-01-52| <> Your ship was destroyed.
+2017-11-22 18-01-52| CoolRanch's Drone was destroyed by Marshmallowsam in sector (-105:437)
+2017-11-22 18-01-52| <> Your ship was destroyed.
+2017-11-22 18-01-52| <> Your ship was destroyed.
+2017-11-22 18-01-53| CoolRanch's Drone was destroyed by Marshmallowsam in sector (-105:437)
+2017-11-22 18-01-53| <> Your ship was destroyed.
+2017-11-22 18-01-53| <> Your ship was destroyed.
+2017-11-22 18-01-53| Kingprawn's Drone was destroyed by Emlorp in sector (-105:437)
+2017-11-22 18-01-53| <> Your ship was destroyed.
+2017-11-22 18-01-53| <> Your ship was destroyed.
+2017-11-22 18-01-54| CoolRanch's Drone was destroyed by Marshmallowsam in sector (-105:437)
+2017-11-22 18-01-54| <> Your ship was destroyed.
+2017-11-22 18-01-54| <> Your ship was destroyed.
+2017-11-22 18-01-55| Kingprawn's Drone was destroyed by Emlorp in sector (-105:437)
+2017-11-22 18-01-55| <> Your ship was destroyed.
+2017-11-22 18-01-55| <> Your ship was destroyed.
+2017-11-22 18-02-00| Kingprawn's Drone was destroyed by CoolRanch in sector (-105:437)
+2017-11-22 18-02-00| <> Your ship was destroyed.
+2017-11-22 18-02-00| <> Your ship was destroyed.
+2017-11-22 18-02-10| <> You have no sector selected.
+2017-11-22 18-02-10| <> You have no sector selected.
+2017-11-22 18-02-10| <> You have no sector selected.
+2017-11-22 18-02-11| <> You have no sector selected.
+2017-11-22 18-02-11| <> You have no sector selected.
+2017-11-22 18-02-11| <> You have no sector selected.
+2017-11-22 18-02-11| <> You have no sector selected.
+2017-11-22 18-02-12| <> You have no sector selected.
+2017-11-22 18-03-07| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-11-22 18-03-07| Creating sector at (-103:436)
+2017-11-22 18-03-07| Generating new content for sector (-103:436)
+2017-11-22 18-03-08| scheduled save for sector (-103:436), 0x16958650, entities: 898
+2017-11-22 18-03-08| saving sector (-103:436)
+2017-11-22 18-03-08| sector (-103:436) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-103_436"
+2017-11-22 18-03-16| <> Jump route calculated.
+2017-11-22 18-03-18| Player Kingprawn moved to sector (-103:436)from (-105:437) server time taken for change: 15ms
+2017-11-22 18-03-18| scheduled save for sector (-103:436), 0x16958650, entities: 905
+2017-11-22 18-03-18| saving sector (-103:436)
+2017-11-22 18-03-18| sector (-103:436) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-103_436"
+2017-11-22 18-03-18| scheduled save for sector (-105:437), 0x69725c0, entities: 1558
+2017-11-22 18-03-18| saving sector (-105:437)
+2017-11-22 18-03-18| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 18-03-49| difficulty: {1}
+2017-11-22 18-03-49| scale: {1}
+2017-11-22 18-03-49| count: {1}
+2017-11-22 18-03-49| args: 1,1,1
+2017-11-22 18-03-49| 1
+2017-11-22 18-03-49| /n/n/n/n
+2017-11-22 18-04-49| <> CoolRanch was invited to your group.
+2017-11-22 18-04-49| <> Emlorp invited you to join his group. Type /join in the chat to join.
+2017-11-22 18-05-06| Emlorp gave emlorp 5000 credits.
+2017-11-22 18-05-57| <> You have no sector selected.
+2017-11-22 18-06-02| New Alliance registered: International Bullshittery Association index: 7
+2017-11-22 18-06-02| <> You're now the leader of the alliance International Bullshittery Association.
+2017-11-22 18-06-02| <> You're now the leader of the alliance International Bullshittery Association.
+2017-11-22 18-06-12| <> Sent an invitation to CoolRanch.
+2017-11-22 18-06-12| <> Emlorp invited you to join his alliance International Bullshittery Association.
+2017-11-22 18-06-14| <> Sent an invitation to Kingprawn.
+2017-11-22 18-06-14| <> Emlorp invited you to join his alliance International Bullshittery Association.
+2017-11-22 18-06-15| <> Sent an invitation to Marshmallowsam.
+2017-11-22 18-06-15| <> Emlorp invited you to join his alliance International Bullshittery Association.
+2017-11-22 18-06-36| <> Your ship was destroyed.
+2017-11-22 18-06-36| <> Your ship was destroyed.
+2017-11-22 18-06-49| <> Your ship was destroyed.
+2017-11-22 18-06-49| <> Your ship was destroyed.
+2017-11-22 18-06-54| <> You're now the leader of a group. Type /invite [player] to invite other players, or type /leave to leave the group.
+2017-11-22 18-06-54| <> You joined Emlorp's group. Type /leave to leave the group.
+2017-11-22 18-07-15| <Server> Player Marshmallowsam left the galaxy
+2017-11-22 18-07-15| Player logged off: Marshmallowsam, index: 5: 
+2017-11-22 18-07-15| Ending authentication session of 76561198133037250
+2017-11-22 18-07-29| <> Joined the alliance International Bullshittery Association. Type /alliance in the chat and say hello!
+2017-11-22 18-07-44| <> You have no sector selected.
+2017-11-22 18-07-45| <> You have no sector selected.
+2017-11-22 18-09-15| <> You have no sector selected.
+2017-11-22 18-10-17| Triggered saving of all server data.
+2017-11-22 18-10-17| scheduled save for sector (-110:432), 0x1309a9b0, entities: 1824
+2017-11-22 18-10-17| saving sector (-110:432)
+2017-11-22 18-10-17| sector (-110:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_432"
+2017-11-22 18-10-17| scheduled save for sector (-105:437), 0x69725c0, entities: 1584
+2017-11-22 18-10-17| saving sector (-105:437)
+2017-11-22 18-10-17| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 18-10-18| scheduled save for sector (-103:436), 0x16958650, entities: 914
+2017-11-22 18-10-18| saving sector (-103:436)
+2017-11-22 18-10-18| sector (-103:436) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-103_436"
+2017-11-22 18-10-18| scheduled save for sector (-102:432), 0x123fb5c0, entities: 1362
+2017-11-22 18-10-18| saving sector (-102:432)
+2017-11-22 18-10-18| sector (-102:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_432"
+2017-11-22 18-10-18| scheduled save for sector (-102:442), 0x1309c2f0, entities: 224
+2017-11-22 18-10-18| saving sector (-102:442)
+2017-11-22 18-10-18| sector (-102:442) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_442"
+2017-11-22 18-11-23| <CoolRanch> fuck you
+2017-11-22 18-11-41| <CoolRanch> fuck your log
+2017-11-22 18-12-23| <> You have no sector selected.
+2017-11-22 18-14-08| <> Your ship was destroyed.
+2017-11-22 18-14-08| <> Your ship was destroyed.
+2017-11-22 18-15-54| <> Your ship was destroyed.
+2017-11-22 18-15-54| <> Your ship was destroyed.
+2017-11-22 18-16-57| starting event alienattack
+2017-11-22 18-18-13| <> Your ship was destroyed.
+2017-11-22 18-18-13| <> Your ship was destroyed.
+2017-11-22 18-19-41| <> You have no sector selected.
+2017-11-22 18-20-17| Triggered saving of all server data.
+2017-11-22 18-20-17| scheduled save for sector (-110:432), 0x1309a9b0, entities: 1824
+2017-11-22 18-20-17| saving sector (-110:432)
+2017-11-22 18-20-17| sector (-110:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_432"
+2017-11-22 18-20-17| scheduled save for sector (-105:437), 0x69725c0, entities: 1602
+2017-11-22 18-20-17| saving sector (-105:437)
+2017-11-22 18-20-18| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 18-20-18| scheduled save for sector (-103:436), 0x16958650, entities: 928
+2017-11-22 18-20-18| saving sector (-103:436)
+2017-11-22 18-20-18| sector (-103:436) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-103_436"
+2017-11-22 18-20-18| scheduled save for sector (-102:432), 0x123fb5c0, entities: 1362
+2017-11-22 18-20-18| saving sector (-102:432)
+2017-11-22 18-20-18| sector (-102:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_432"
+2017-11-22 18-20-18| scheduled save for sector (-102:442), 0x1309c2f0, entities: 224
+2017-11-22 18-20-18| saving sector (-102:442)
+2017-11-22 18-20-18| sector (-102:442) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_442"
+2017-11-22 18-20-24| <> You have no sector selected.
+2017-11-22 18-20-48| <> You have no sector selected.
+2017-11-22 18-21-18| starting event fakedistresssignal
+2017-11-22 18-24-25| starting event alienattack
+2017-11-22 18-24-49| <> Joined the alliance International Bullshittery Association. Type /alliance in the chat and say hello!
+2017-11-22 18-25-41| <Server> Player Kingprawn left the galaxy
+2017-11-22 18-25-41| Player logged off: Kingprawn, index: 3: 
+2017-11-22 18-25-41| Ending authentication session of 76561198052848328
+2017-11-22 18-25-51| <> Your ship was destroyed.
+2017-11-22 18-25-51| <> Your ship was destroyed.
+2017-11-22 18-25-54| <> You have no sector selected.
+2017-11-22 18-26-03| starting event spawntravellingmerchant
+2017-11-22 18-26-40| <> Your ship was destroyed.
+2017-11-22 18-26-40| <> Your ship was destroyed.
+2017-11-22 18-30-17| Triggered saving of all server data.
+2017-11-22 18-30-17| scheduled save for sector (-110:432), 0x1309a9b0, entities: 1824
+2017-11-22 18-30-17| saving sector (-110:432)
+2017-11-22 18-30-17| sector (-110:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_432"
+2017-11-22 18-30-17| scheduled save for sector (-105:437), 0x69725c0, entities: 1588
+2017-11-22 18-30-17| saving sector (-105:437)
+2017-11-22 18-30-18| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 18-30-18| scheduled save for sector (-103:436), 0x16958650, entities: 962
+2017-11-22 18-30-18| saving sector (-103:436)
+2017-11-22 18-30-18| sector (-103:436) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-103_436"
+2017-11-22 18-30-18| scheduled save for sector (-102:432), 0x123fb5c0, entities: 1362
+2017-11-22 18-30-18| saving sector (-102:432)
+2017-11-22 18-30-18| sector (-102:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_432"
+2017-11-22 18-30-18| scheduled save for sector (-102:442), 0x1309c2f0, entities: 224
+2017-11-22 18-30-18| saving sector (-102:442)
+2017-11-22 18-30-18| sector (-102:442) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_442"
+2017-11-22 18-30-41| scheduled save for sector (-103:436), 0x16958650, entities: 963
+2017-11-22 18-30-41| saving sector (-103:436)
+2017-11-22 18-30-41| sector (-103:436) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-103_436"
+2017-11-22 18-32-30| starting event convoidistresssignal
+2017-11-22 18-34-14| <> Your ship doesn't support more of this turret type.
+2017-11-22 18-38-33| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-11-22 18-38-40| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-11-22 18-39-40| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-11-22 18-39-47| <> Your ship was destroyed.
+2017-11-22 18-39-47| <> Your ship was destroyed.
+2017-11-22 18-40-17| Triggered saving of all server data.
+2017-11-22 18-40-17| scheduled save for sector (-110:432), 0x1309a9b0, entities: 1824
+2017-11-22 18-40-17| saving sector (-110:432)
+2017-11-22 18-40-17| sector (-110:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_432"
+2017-11-22 18-40-17| scheduled save for sector (-105:437), 0x69725c0, entities: 1732
+2017-11-22 18-40-17| saving sector (-105:437)
+2017-11-22 18-40-18| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 18-40-18| scheduled save for sector (-102:432), 0x123fb5c0, entities: 1362
+2017-11-22 18-40-18| saving sector (-102:432)
+2017-11-22 18-40-18| sector (-102:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_432"
+2017-11-22 18-40-18| scheduled save for sector (-102:442), 0x1309c2f0, entities: 224
+2017-11-22 18-40-18| saving sector (-102:442)
+2017-11-22 18-40-18| sector (-102:442) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_442"
+2017-11-22 18-40-48| <> You have no sector selected.
+2017-11-22 18-41-55| <> You have no sector selected.
+2017-11-22 18-41-58| <> You need 2004 Iron
+2017-11-22 18-42-20| Emlorp gave emlorp 5000 iron.
+2017-11-22 18-43-32| Emlorp gave emlorp 2 credits.
+2017-11-22 18-47-57| <> You must place the turret on a block made of Titanium or better.
+2017-11-22 18-50-17| Triggered saving of all server data.
+2017-11-22 18-50-17| scheduled save for sector (-110:432), 0x1309a9b0, entities: 1824
+2017-11-22 18-50-17| saving sector (-110:432)
+2017-11-22 18-50-17| sector (-110:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_432"
+2017-11-22 18-50-17| scheduled save for sector (-105:437), 0x69725c0, entities: 1604
+2017-11-22 18-50-17| saving sector (-105:437)
+2017-11-22 18-50-18| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 18-50-18| scheduled save for sector (-102:432), 0x123fb5c0, entities: 1362
+2017-11-22 18-50-18| saving sector (-102:432)
+2017-11-22 18-50-18| sector (-102:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_432"
+2017-11-22 18-50-18| scheduled save for sector (-102:442), 0x1309c2f0, entities: 224
+2017-11-22 18-50-18| saving sector (-102:442)
+2017-11-22 18-50-18| sector (-102:442) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_442"
+2017-11-22 18-54-34| starting event alienattack
+2017-11-22 18-57-52| <> You have no sector selected.
+2017-11-22 18-59-05| <> You have no sector selected.
+2017-11-22 19-00-17| Triggered saving of all server data.
+2017-11-22 19-00-17| scheduled save for sector (-110:432), 0x1309a9b0, entities: 1824
+2017-11-22 19-00-17| saving sector (-110:432)
+2017-11-22 19-00-17| sector (-110:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_432"
+2017-11-22 19-00-17| scheduled save for sector (-105:437), 0x69725c0, entities: 1659
+2017-11-22 19-00-17| saving sector (-105:437)
+2017-11-22 19-00-18| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 19-00-18| scheduled save for sector (-102:432), 0x123fb5c0, entities: 1362
+2017-11-22 19-00-18| saving sector (-102:432)
+2017-11-22 19-00-18| sector (-102:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_432"
+2017-11-22 19-00-18| scheduled save for sector (-102:442), 0x1309c2f0, entities: 224
+2017-11-22 19-00-18| saving sector (-102:442)
+2017-11-22 19-00-18| sector (-102:442) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_442"
+2017-11-22 19-03-31| starting event alienattack
+2017-11-22 19-03-37| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-11-22 19-04-01| <> You were damaged recently. You have to wait another 25 seconds until you can repair your ship.
+2017-11-22 19-04-15| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-11-22 19-05-12| Emlorp gave emlorp 2500 credits.
+2017-11-22 19-07-01| <> You were damaged recently. You have to wait another 15 seconds until you can repair your ship.
+2017-11-22 19-07-06| starting event traderattackedbypiratesstarter
+2017-11-22 19-07-08| <> Your ship doesn't support more of this turret type.
+2017-11-22 19-07-10| <> You cannot build a turret at this place. The turret must not intersect with another block.
+2017-11-22 19-07-11| <> Your ship doesn't support more of this turret type.
+2017-11-22 19-07-12| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-11-22 19-09-08| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-11-22 19-09-13| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-11-22 19-10-08| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-11-22 19-10-15| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-11-22 19-10-17| <> You were damaged recently. You have to wait another 15 seconds until you can repair your ship.
+2017-11-22 19-10-17| Triggered saving of all server data.
+2017-11-22 19-10-17| scheduled save for sector (-110:432), 0x1309a9b0, entities: 1824
+2017-11-22 19-10-17| saving sector (-110:432)
+2017-11-22 19-10-17| sector (-110:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_432"
+2017-11-22 19-10-17| scheduled save for sector (-105:437), 0x69725c0, entities: 1716
+2017-11-22 19-10-17| saving sector (-105:437)
+2017-11-22 19-10-18| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 19-10-18| scheduled save for sector (-102:432), 0x123fb5c0, entities: 1362
+2017-11-22 19-10-18| saving sector (-102:432)
+2017-11-22 19-10-18| sector (-102:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_432"
+2017-11-22 19-10-18| scheduled save for sector (-102:442), 0x1309c2f0, entities: 224
+2017-11-22 19-10-18| saving sector (-102:442)
+2017-11-22 19-10-18| sector (-102:442) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_442"
+2017-11-22 19-10-27| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-11-22 19-11-42| <> You were damaged recently. You have to wait another 15 seconds until you can repair your ship.
+2017-11-22 19-12-00| <> You were damaged recently. You have to wait another 25 seconds until you can repair your ship.
+2017-11-22 19-12-16| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-11-22 19-12-39| <> You have no sector selected.
+2017-11-22 19-12-44| <> You have no sector selected.
+2017-11-22 19-14-43| starting event pirateattackstarter
+2017-11-22 19-15-22| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-11-22 19-16-07| <> You need 5936 Iron
+2017-11-22 19-16-14| Emlorp gave emlorp 5000 iron.
+2017-11-22 19-16-16| Emlorp gave emlorp 5000 iron.
+2017-11-22 19-17-09| Emlorp gave emlorp 5000 titanium.
+2017-11-22 19-18-15| <> You cannot build this. The block overlaps too much with another block.
+2017-11-22 19-18-16| <> You cannot build this. The block overlaps too much with another block.
+2017-11-22 19-19-51| <> You were damaged recently. You have to wait another 15 seconds until you can repair your ship.
+2017-11-22 19-20-17| Triggered saving of all server data.
+2017-11-22 19-20-17| scheduled save for sector (-110:432), 0x1309a9b0, entities: 1824
+2017-11-22 19-20-17| saving sector (-110:432)
+2017-11-22 19-20-18| sector (-110:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_432"
+2017-11-22 19-20-18| scheduled save for sector (-105:437), 0x69725c0, entities: 1629
+2017-11-22 19-20-18| saving sector (-105:437)
+2017-11-22 19-20-18| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 19-20-18| scheduled save for sector (-102:432), 0x123fb5c0, entities: 1362
+2017-11-22 19-20-18| saving sector (-102:432)
+2017-11-22 19-20-18| sector (-102:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_432"
+2017-11-22 19-20-18| scheduled save for sector (-102:442), 0x1309c2f0, entities: 224
+2017-11-22 19-20-18| saving sector (-102:442)
+2017-11-22 19-20-18| sector (-102:442) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_442"
+2017-11-22 19-22-49| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-11-22 19-23-03| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-11-22 19-23-15| starting event convoidistresssignal
+2017-11-22 19-24-20| <> You were damaged recently. You have to wait another 25 seconds until you can repair your ship.
+2017-11-22 19-24-41| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-11-22 19-24-47| <> You need 494 Iron and 121 Titanium
+2017-11-22 19-25-00| <> You need 492 Iron and 120 Titanium
+2017-11-22 19-25-05| <> You need 492 Iron and 120 Titanium
+2017-11-22 19-25-10| <> You need 492 Iron and 120 Titanium
+2017-11-22 19-25-14| <> You need 492 Iron and 120 Titanium
+2017-11-22 19-25-54| <> You need 489 Iron and 119 Titanium
+2017-11-22 19-26-08| <> You need 488 Iron and 118 Titanium
+2017-11-22 19-26-15| <> You need 487 Iron and 118 Titanium
+2017-11-22 19-26-23| <> You need 487 Iron and 118 Titanium
+2017-11-22 19-28-05| <> You have no sector selected.
+2017-11-22 19-30-17| Triggered saving of all server data.
+2017-11-22 19-30-17| scheduled save for sector (-110:432), 0x1309a9b0, entities: 1824
+2017-11-22 19-30-17| saving sector (-110:432)
+2017-11-22 19-30-17| sector (-110:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_432"
+2017-11-22 19-30-17| scheduled save for sector (-105:437), 0x69725c0, entities: 1566
+2017-11-22 19-30-17| saving sector (-105:437)
+2017-11-22 19-30-18| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 19-30-18| scheduled save for sector (-102:432), 0x123fb5c0, entities: 1362
+2017-11-22 19-30-18| saving sector (-102:432)
+2017-11-22 19-30-18| sector (-102:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_432"
+2017-11-22 19-30-18| scheduled save for sector (-102:442), 0x1309c2f0, entities: 224
+2017-11-22 19-30-18| saving sector (-102:442)
+2017-11-22 19-30-18| sector (-102:442) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_442"
+2017-11-22 19-32-35| <> You need 1800 Iron
+2017-11-22 19-32-42| Emlorp gave emlorp 5000 iron.
+2017-11-22 19-33-18| <> You need 7201 credits.
+2017-11-22 19-33-31| Emlorp gave emlorp 8500 credits.
+2017-11-22 19-34-43| starting event spawntravellingmerchant
+2017-11-22 19-35-42| Player Emlorp moved to sector (-110:432)from (-105:437) server time taken for change: 40ms
+2017-11-22 19-35-42| Creating sector at  to sector (-110:432)from (-105:437) server time taken for change: 40ms
+2017-11-22 19-35-42| 2017-11-22 19-35-42| Creating sector at (-110:427)
+2017-11-22 19-35-42| scheduled save for sector (-110:432), 0x1309a9b0, entities: 1837
+2017-11-22 19-35-42| Generating new content for sector (-106:431)
+2017-11-22 19-35-42| Generating new content for sector (-110:427)
+2017-11-22 19-35-42| saving sector (-110:432)
+2017-11-22 19-35-43| sector (-110:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_432"
+2017-11-22 19-35-43| scheduled save for sector (-105:437), 0x69725c0, entities: 1543
+2017-11-22 19-35-43| saving sector (-105:437)
+2017-11-22 19-35-43| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 19-35-45| scheduled save for sector (-110:427), 0xd691570, entities: 1693
+2017-11-22 19-35-45| saving sector (-110:427)
+2017-11-22 19-35-45| scheduled save for sector (-106:431), 0xd68fc30, entities: 1053
+2017-11-22 19-35-46| sector (-110:427) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_427"
+2017-11-22 19-35-46| saving sector (-106:431)
+2017-11-22 19-35-46| sector (-106:431) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-106_431"
+2017-11-22 19-35-48| Player CoolRanch moved to sector (-110:432)from (-105:437) server time taken for change: 47ms
+2017-11-22 19-35-48| scheduled save for sector (-110:432), 0x1309a9b0, entities: 1843
+2017-11-22 19-35-48| saving sector (-110:432)
+2017-11-22 19-35-49| sector (-110:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_432"
+2017-11-22 19-35-49| scheduled save for sector (-105:437), 0x69725c0, entities: 1537
+2017-11-22 19-35-49| saving sector (-105:437)
+2017-11-22 19-35-49| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 19-35-53| scheduled save for sector (-102:432), 0x123fb5c0, entities: 1362
+2017-11-22 19-35-53| saving sector (-102:432)
+2017-11-22 19-35-53| sector (-102:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_432"
+2017-11-22 19-35-53| scheduled save for sector (-102:442), 0x1309c2f0, entities: 224
+2017-11-22 19-35-53| saving sector (-102:442)
+2017-11-22 19-35-53| sector (-102:442) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-102_442"
+2017-11-22 19-38-23| starting event fakedistresssignal
+2017-11-22 19-40-17| Triggered saving of all server data.
+2017-11-22 19-40-17| scheduled save for sector (-110:427), 0xd691570, entities: 1693
+2017-11-22 19-40-17| saving sector (-110:427)
+2017-11-22 19-40-17| sector (-110:427) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_427"
+2017-11-22 19-40-17| scheduled save for sector (-110:432), 0x1309a9b0, entities: 1856
+2017-11-22 19-40-17| saving sector (-110:432)
+2017-11-22 19-40-18| sector (-110:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_432"
+2017-11-22 19-40-18| scheduled save for sector (-106:431), 0xd68fc30, entities: 1053
+2017-11-22 19-40-18| saving sector (-106:431)
+2017-11-22 19-40-18| sector (-106:431) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-106_431"
+2017-11-22 19-40-18| scheduled save for sector (-105:437), 0x69725c0, entities: 1514
+2017-11-22 19-40-18| saving sector (-105:437)
+2017-11-22 19-40-18| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 19-42-29| starting event alienattack
+2017-11-22 19-44-45| <> You need 17437 credits.
+2017-11-22 19-45-37| Emlorp gave emlorp 8500 credits.
+2017-11-22 19-45-39| Emlorp gave emlorp 8500 credits.
+2017-11-22 19-45-44| <> You need 4526 Iron and 870 Titanium
+2017-11-22 19-47-46| <> Your ship doesn't support more of this turret type.
+2017-11-22 19-48-20| Emlorp gave emlorp 8500 credits.
+2017-11-22 19-50-17| Triggered saving of all server data.
+2017-11-22 19-50-17| scheduled save for sector (-110:427), 0xd691570, entities: 1693
+2017-11-22 19-50-17| saving sector (-110:427)
+2017-11-22 19-50-17| sector (-110:427) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_427"
+2017-11-22 19-50-17| scheduled save for sector (-110:432), 0x1309a9b0, entities: 1913
+2017-11-22 19-50-17| saving sector (-110:432)
+2017-11-22 19-50-18| sector (-110:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_432"
+2017-11-22 19-50-18| scheduled save for sector (-106:431), 0xd68fc30, entities: 1083
+2017-11-22 19-50-18| saving sector (-106:431)
+2017-11-22 19-50-18| sector (-106:431) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-106_431"
+2017-11-22 19-50-18| scheduled save for sector (-105:437), 0x69725c0, entities: 1501
+2017-11-22 19-50-18| saving sector (-105:437)
+2017-11-22 19-50-18| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 19-50-41| <> You were damaged recently. You have to wait another 15 seconds until you can repair your ship.
+2017-11-22 19-50-48| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-11-22 19-50-52| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-11-22 19-52-05| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-11-22 19-52-13| <> You were damaged recently. You have to wait another 15 seconds until you can repair your ship.
+2017-11-22 19-52-18| <> You need 2312 Iron and 547 Titanium
+2017-11-22 19-52-21| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-11-22 19-55-28| <> You cannot edit a damaged ship.
+2017-11-22 19-55-34| <> You cannot edit a damaged ship.
+2017-11-22 19-55-37| <> You cannot edit a damaged ship.
+2017-11-22 19-55-38| <> You cannot edit a damaged ship.
+2017-11-22 19-55-39| <> You cannot edit a damaged ship.
+2017-11-22 19-55-51| Emlorp gave emlorp 850 iron.
+2017-11-22 19-56-04| Emlorp gave emlorp 500 titanium.
+2017-11-22 19-56-05| <> You need 2017 Iron and 480 Titanium
+2017-11-22 19-56-08| Emlorp gave emlorp 850 iron.
+2017-11-22 20-00-17| Triggered saving of all server data.
+2017-11-22 20-00-17| scheduled save for sector (-110:427), 0xd691570, entities: 1693
+2017-11-22 20-00-17| saving sector (-110:427)
+2017-11-22 20-00-17| sector (-110:427) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_427"
+2017-11-22 20-00-17| scheduled save for sector (-110:432), 0x1309a9b0, entities: 1869
+2017-11-22 20-00-18| saving sector (-110:432)
+2017-11-22 20-00-18| sector (-110:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_432"
+2017-11-22 20-00-18| scheduled save for sector (-106:431), 0xd68fc30, entities: 1083
+2017-11-22 20-00-18| saving sector (-106:431)
+2017-11-22 20-00-18| sector (-106:431) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-106_431"
+2017-11-22 20-00-18| scheduled save for sector (-105:437), 0x69725c0, entities: 1498
+2017-11-22 20-00-18| saving sector (-105:437)
+2017-11-22 20-00-18| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 20-02-47| starting event alienattack
+2017-11-22 20-05-08| Player CoolRanch moved to sector (-110:427)from (-110:432) server time taken for change: 35ms
+2017-11-22 20-05-08| Creating sector at (ed to sector (-110:427)from (-110:432) server time taken for change: 35ms
+2017-11-22 20-05-08| 2017-11-22 20-05-08| Creating sector at (-108:423)
+2017-11-22 20-05-08| scheduled save for sector (-110:427), 0xd691570, entities: 1694
+2017-11-22 20-05-08| Generating new content for sector (-108:423)
+2017-11-22 20-05-08| saving sector (-110:427)
+2017-11-22 20-05-08| scheduled save for sector (-300:-355), 0x18ae22f0, entities: 0
+2017-11-22 20-05-09| sector (-110:427) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_427"
+2017-11-22 20-05-09| saving sector (-300:-355)
+2017-11-22 20-05-09| sector (-300:-355) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-300_-355"
+2017-11-22 20-05-09| scheduled save for sector (-110:432), 0x1309a9b0, entities: 1863
+2017-11-22 20-05-09| saving sector (-110:432)
+2017-11-22 20-05-09| sector (-110:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_432"
+2017-11-22 20-05-11| scheduled save for sector (-108:423), 0x1afbf230, entities: 1094
+2017-11-22 20-05-11| saving sector (-108:423)
+2017-11-22 20-05-11| sector (-108:423) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-108_423"
+2017-11-22 20-05-35| Player Emlorp moved to sector (-110:427)from (-110:432) server time taken for change: 34ms
+2017-11-22 20-05-35| scheduled save for sector (-110:427), 0xd691570, entities: 1695
+2017-11-22 20-05-35| saving sector (-110:427)
+2017-11-22 20-05-35| sector (-110:427) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_427"
+2017-11-22 20-05-35| scheduled save for sector (-110:432), 0x1309a9b0, entities: 1854
+2017-11-22 20-05-35| saving sector (-110:432)
+2017-11-22 20-05-35| sector (-110:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_432"
+2017-11-22 20-05-40| scheduled save for sector (-105:437), 0x69725c0, entities: 1496
+2017-11-22 20-05-40| saving sector (-105:437)
+2017-11-22 20-05-40| sector (-105:437) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-105_437"
+2017-11-22 20-07-26| Player CoolRanch moved to sector (-300:-355)from (-110:427) server time taken for change: 0ms
+2017-11-22 20-07-26| scheduled save for sector (-300:-355), 0x18ae22f0, entities: 2
+2017-11-22 20-07-26| saving sector (-300:-355)
+2017-11-22 20-07-26| sector (-300:-355) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-300_-355"
+2017-11-22 20-07-26| scheduled save for sector (-110:427), 0xd691570, entities: 1720
+2017-11-22 20-07-26| saving sector (-110:427)
+2017-11-22 20-07-27| sector (-110:427) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_427"
+2017-11-22 20-07-37| Player Emlorp moved to sector (-300:-355)from (-110:427) server time taken for change: 0ms
+2017-11-22 20-07-37| scheduled save for sector (-300:-355), 0x18ae22f0, entities: 3
+2017-11-22 20-07-37| saving sector (-300:-355)
+2017-11-22 20-07-37| sector (-300:-355) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-300_-355"
+2017-11-22 20-07-37| scheduled save for sector (-110:427), 0xd691570, entities: 1719
+2017-11-22 20-07-37| saving sector (-110:427)
+2017-11-22 20-07-37| sector (-110:427) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_427"
+2017-11-22 20-07-42| scheduled save for sector (-106:431), 0xd68fc30, entities: 1083
+2017-11-22 20-07-42| saving sector (-106:431)
+2017-11-22 20-07-42| scheduled save for sector (-108:423), 0x1afbf230, entities: 1094
+2017-11-22 20-07-42| sector (-106:431) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-106_431"
+2017-11-22 20-07-42| saving sector (-108:423)
+2017-11-22 20-07-42| sector (-108:423) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-108_423"
+2017-11-22 20-08-05| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-11-22 20-08-05| Creating sector at (-295:-351)
+2017-11-22 20-08-05| Generating new content for sector (-295:-351)
+2017-11-22 20-08-08| Generated bulletin!
+2017-11-22 20-08-08| scheduled save for sector (-295:-351), 0x13ec6c90, entities: 515
+2017-11-22 20-08-08| saving sector (-295:-351)
+2017-11-22 20-08-08| sector (-295:-351) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-295_-351"
+2017-11-22 20-08-22| <> Jump route calculated.
+2017-11-22 20-09-00| Player Emlorp moved to sector (-295:-351)from (-300:-355) server time taken for change: 15ms
+2017-11-22 20-09-00| Creyer Emlorp moved to sector (-295:-351)from (-300:-355) server time taken for change: 15ms
+2017-11-22 20-09-00| 2017-11-22 20-09-00| Creating sector at (-292:-353)
+2017-11-22 20-09-00| Generating new content for sector (-296:-344)
+2017-11-22 20-09-00| Generating new content for sector (-292:-353)
+2017-11-22 20-09-00| scheduled save for sector (-295:-351), 0x13ec6c90, entities: 516
+2017-11-22 20-09-00| saving sector (-295:-351)
+2017-11-22 20-09-00| sector (-295:-351) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-295_-351"
+2017-11-22 20-09-00| scheduled save for sector (-296:-344), 0x1695bf20, entities: 2
+2017-11-22 20-09-00| saving sector (-296:-344)
+2017-11-22 20-09-00| sector (-296:-344) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-296_-344"
+2017-11-22 20-09-00| scheduled save for sector (-300:-355), 0x18ae22f0, entities: 2
+2017-11-22 20-09-00| saving sector (-300:-355)
+2017-11-22 20-09-00| sector (-300:-355) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-300_-355"
+2017-11-22 20-09-01| scheduled save for sector (-292:-353), 0x1695b8d0, entities: 846
+2017-11-22 20-09-01| saving sector (-292:-353)
+2017-11-22 20-09-02| sector (-292:-353) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-292_-353"
+2017-11-22 20-09-07| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-11-22 20-09-07| Creating sector at (-298:-354)
+2017-11-22 20-09-08| scheduled save for sector (-298:-354), 0x1309c940, entities: 0
+2017-11-22 20-09-08| saving sector (-298:-354)
+2017-11-22 20-09-08| sector (-298:-354) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-298_-354"
+2017-11-22 20-09-17| <> Jump route calculated.
+2017-11-22 20-10-06| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-11-22 20-10-10| <> You need more sergeants.
+2017-11-22 20-10-11| scheduled save for sector (-298:-354), 0x1309c940, entities: 0
+2017-11-22 20-10-11| saving sector (-298:-354)
+2017-11-22 20-10-11| sector (-298:-354) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-298_-354"
+2017-11-22 20-10-12| <> You need more lieutenants.
+2017-11-22 20-10-17| <> You need more sergeants.
+2017-11-22 20-10-17| Triggered saving of all server data.
+2017-11-22 20-10-17| scheduled save for sector (-300:-355), 0x18ae22f0, entities: 2
+2017-11-22 20-10-17| saving sector (-300:-355)
+2017-11-22 20-10-17| sector (-300:-355) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-300_-355"
+2017-11-22 20-10-17| scheduled save for sector (-296:-344), 0x1695bf20, entities: 2
+2017-11-22 20-10-17| saving sector (-296:-344)
+2017-11-22 20-10-17| sector (-296:-344) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-296_-344"
+2017-11-22 20-10-17| scheduled save for sector (-295:-351), 0x13ec6c90, entities: 520
+2017-11-22 20-10-17| saving sector (-295:-351)
+2017-11-22 20-10-17| sector (-295:-351) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-295_-351"
+2017-11-22 20-10-17| scheduled save for sector (-292:-353), 0x1695b8d0, entities: 846
+2017-11-22 20-10-17| saving sector (-292:-353)
+2017-11-22 20-10-18| sector (-292:-353) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-292_-353"
+2017-11-22 20-10-18| scheduled save for sector (-110:427), 0xd691570, entities: 1716
+2017-11-22 20-10-18| saving sector (-110:427)
+2017-11-22 20-10-18| sector (-110:427) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_427"
+2017-11-22 20-10-18| scheduled save for sector (-110:432), 0x1309a9b0, entities: 1833
+2017-11-22 20-10-18| saving sector (-110:432)
+2017-11-22 20-10-18| <> You need more lieutenants.
+2017-11-22 20-10-18| sector (-110:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_432"
+2017-11-22 20-10-20| <> You need more commanders.
+2017-11-22 20-10-20| <> You need more commanders.
+2017-11-22 20-10-23| <> You need more commanders.
+2017-11-22 20-10-23| <> You need more commanders.
+2017-11-22 20-10-23| <> You need more commanders.
+2017-11-22 20-10-24| <> You need more commanders.
+2017-11-22 20-10-24| <> Jump route calculated.
+2017-11-22 20-10-25| Player CoolRanch moved to sector (-295:-351)from (-300:-355) server time taken for change: 15ms
+2017-11-22 20-10-25| scheduled save for sector (-295:-351), 0x13ec6c90, entities: 521
+2017-11-22 20-10-25| saving sector (-295:-351)
+2017-11-22 20-10-25| sector (-295:-351) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-295_-351"
+2017-11-22 20-10-25| scheduled save for sector (-300:-355), 0x18ae22f0, entities: 1
+2017-11-22 20-10-25| saving sector (-300:-355)
+2017-11-22 20-10-25| sector (-300:-355) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-300_-355"
+2017-11-22 20-10-35| scheduled save for sector (-110:432), 0x1309a9b0, entities: 1832
+2017-11-22 20-10-35| saving sector (-110:432)
+2017-11-22 20-10-35| sector (-110:432) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_432"
+2017-11-22 20-11-37| <> You need more sergeants.
+2017-11-22 20-11-38| <> You need more sergeants.
+2017-11-22 20-12-18| <Server> Player CoolRanch left the galaxy
+2017-11-22 20-12-18| Player logged off: CoolRanch, index: 4: 
+2017-11-22 20-12-18| <> You're now the leader of the group. Type /invite [player] to invite other players, or type /leave to leave the group.
+2017-11-22 20-12-18| Ending authentication session of 76561198112356464
+2017-11-22 20-12-20| <Server> Player Emlorp left the galaxy
+2017-11-22 20-12-20| Player logged off: Emlorp, index: 1: 
+2017-11-22 20-12-20| Server is shutting down.
+2017-11-22 20-12-20| Saving settings...
+2017-11-22 20-12-20| Saving script values...
+2017-11-22 20-12-20| Saving factions...
+2017-11-22 20-12-20| Saving sectors...
+2017-11-22 20-12-20| Saving jumping ships...
+2017-11-22 20-12-20| scheduled save for sector (0:0), 0x104e220, entities: 0
+2017-11-22 20-12-20| saving sector (0:0)
+2017-11-22 20-12-20| sector (0:0) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\jumps.dat"
+2017-11-22 20-12-20| Saving groups...
+2017-11-22 20-12-20| Saving settings...
+2017-11-22 20-12-20| waiting for unfinished sector generation jobs...
+2017-11-22 20-12-20| waiting for unfinished sector save jobs...
+2017-11-22 20-12-20| scheduled save for sector (-300:-355), 0x18ae22f0, entities: 1
+2017-11-22 20-12-20| saving sector (-300:-355)
+2017-11-22 20-12-20| sector (-300:-355) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-300_-355"
+2017-11-22 20-12-20| scheduled save for sector (-296:-344), 0x1695bf20, entities: 2
+2017-11-22 20-12-20| saving sector (-296:-344)
+2017-11-22 20-12-20| sector (-296:-344) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-296_-344"
+2017-11-22 20-12-20| scheduled save for sector (-295:-351), 0x13ec6c90, entities: 527
+2017-11-22 20-12-20| saving sector (-295:-351)
+2017-11-22 20-12-20| sector (-295:-351) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-295_-351"
+2017-11-22 20-12-20| scheduled save for sector (-292:-353), 0x1695b8d0, entities: 846
+2017-11-22 20-12-20| saving sector (-292:-353)
+2017-11-22 20-12-20| sector (-292:-353) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-292_-353"
+2017-11-22 20-12-20| Received valid shutdown message, shutting down.
+2017-11-22 20-12-20| scheduled save for sector (-110:427), 0xd691570, entities: 1713
+2017-11-22 20-12-20| saving sector (-110:427)
+2017-11-22 20-12-20| sector (-110:427) saved to "C:\Users\Emlorp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-110_427"
+2017-11-22 20-12-20| shutting down rcon...
+2017-11-22 20-12-20| shutting down networking...
+2017-11-22 20-12-21| Ending authentication session of 76561198034156887
+2017-11-22 20-12-21| UDP closed
+2017-11-22 20-12-21| Server UDP: Connection closed
+2017-11-22 20-12-21| cleaning up communicators...
+2017-11-22 20-12-21| waiting for unfinished sector generation jobs...
+2017-11-22 20-12-21| waiting for unfinished sector save jobs...
+2017-11-22 20-12-21| shutting down galaxy...
+2017-11-22 20-12-21| shutting down faction database...
+2017-11-22 20-12-21| shutting down sector database...
+2017-11-22 20-12-21| cleaning up timers...
+2017-11-22 20-12-21| Server shutdown successful.

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="5" numWrecks="0" numAsteroids="587" numStations="4" influence="38.0680008" factionIndex="2001497" deathLocation="false">
+	<coordinates x="187" y="331"/>
+	<titles>
+		<title str="Turret Factory"/>
+		<title str="${good} Factory ${size}">
+			<arg key="good">Energy Container</arg>
+			<arg key="prefix">Energy Container /* prefix */</arg>
+			<arg key="size">S</arg>
+			<arg key="plural">Energy Containers</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="size">L</arg>
+			<arg key="prefix">Luxury Food /* prefix */</arg>
+			<arg key="plural">Luxury Food</arg>
+			<arg key="good">Luxury Food</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="plural">Wine</arg>
+			<arg key="good">Wine</arg>
+			<arg key="prefix">Wine /* prefix */</arg>
+			<arg key="size">S</arg>
+		</title>
+	</titles>
+	<wormholes/>
+	<gates>
+		<coordinates x="182" y="324"/>
+		<coordinates x="184" y="333"/>
+	</gates>
+	<shipNumbers>
+		<ships n="5" faction="2001497"/>
+	</shipNumbers>
+</view>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="5" numWrecks="0" numAsteroids="623" numStations="6" influence="57.1019974" factionIndex="2001669" deathLocation="false">
+	<coordinates x="40" y="-425"/>
+	<titles>
+		<title str="${good} Factory ${size}">
+			<arg key="good">Fuel</arg>
+			<arg key="prefix">Fuel /* prefix */</arg>
+			<arg key="plural">Fuel</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="Fighter Factory"/>
+		<title str="${good} Factory ${size}">
+			<arg key="prefix">Meat /* prefix */</arg>
+			<arg key="good">Meat</arg>
+			<arg key="size">M</arg>
+			<arg key="plural">Meat</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="plural">Dairy</arg>
+			<arg key="size">S</arg>
+			<arg key="prefix">Dairy /* prefix */</arg>
+			<arg key="good">Dairy</arg>
+		</title>
+		<title str="Trading Post"/>
+		<title str="${good} Refinery ${size}">
+			<arg key="plural">Oil</arg>
+			<arg key="size">M</arg>
+			<arg key="good">Oil</arg>
+			<arg key="prefix">Oil /* prefix */</arg>
+		</title>
+	</titles>
+	<wormholes/>
+	<gates>
+		<coordinates x="41" y="-424"/>
+		<coordinates x="38" y="-424"/>
+		<coordinates x="41" y="-433"/>
+	</gates>
+	<shipNumbers>
+		<ships n="5" faction="2001669"/>
+	</shipNumbers>
+</view>

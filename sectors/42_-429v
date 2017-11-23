@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="6" numWrecks="0" numAsteroids="188" numStations="11" influence="104.686989" factionIndex="2001669" deathLocation="false">
+	<coordinates x="42" y="-429"/>
+	<titles>
+		<title str="Resource Depot"/>
+		<title str="Biotope"/>
+		<title str="${faction} Headquarters">
+			<arg key="faction">Ayuj Planets</arg>
+		</title>
+		<title str="Military Outpost"/>
+		<title str="Equipment Dock"/>
+		<title str="Chemicals Factory ${size}">
+			<arg key="size">S</arg>
+			<arg key="plural">Chemicals</arg>
+			<arg key="prefix">Chemicals /* prefix */</arg>
+			<arg key="good">Chemicals</arg>
+		</title>
+		<title str="Shipyard"/>
+		<title str="${good} Factory ${size}">
+			<arg key="prefix">Energy Tube /* prefix */</arg>
+			<arg key="plural">Energy Tubes</arg>
+			<arg key="good">Energy Tube</arg>
+			<arg key="size">M</arg>
+		</title>
+		<title str="${good} Mine ${size}">
+			<arg key="plural">Zinc</arg>
+			<arg key="prefix">Zinc /* prefix */</arg>
+			<arg key="size">M</arg>
+			<arg key="good">Zinc</arg>
+		</title>
+		<title str="${good} Ranch ${size}">
+			<arg key="prefix">Sheep /* prefix */</arg>
+			<arg key="plural">Sheep</arg>
+			<arg key="good">Sheep</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="Repair Dock"/>
+	</titles>
+	<wormholes/>
+	<gates/>
+	<shipNumbers>
+		<ships n="6" faction="2001669"/>
+	</shipNumbers>
+</view>

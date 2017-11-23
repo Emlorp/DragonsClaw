@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Administration>
+	<administration>
+		<defaultAuthorizationGroup>
+			<commands>
+				<command name="help"/>
+				<command name="invite"/>
+				<command name="join"/>
+				<command name="leader"/>
+				<command name="leave"/>
+				<command name="players"/>
+				<command name="seed"/>
+				<command name="selfinfo"/>
+				<command name="showdist"/>
+				<command name="suicide"/>
+				<command name="version"/>
+				<command name="w"/>
+				<command name="whisper"/>
+			</commands>
+		</defaultAuthorizationGroup>
+		<authorizationGroups>
+			<group name="Moderators">
+				<commands>
+					<command name="/agoods"/>
+					<command name="ban"/>
+					<command name="banip"/>
+					<command name="blacklist"/>
+					<command name="crew"/>
+					<command name="destroy"/>
+					<command name="echo"/>
+					<command name="fighter"/>
+					<command name="give"/>
+					<command name="ground"/>
+					<command name="groups"/>
+					<command name="inv"/>
+					<command name="inventory"/>
+					<command name="kick"/>
+					<command name="like"/>
+					<command name="list"/>
+					<command name="mute"/>
+					<command name="pause"/>
+					<command name="playerinfo"/>
+					<command name="price"/>
+					<command name="run"/>
+					<command name="save"/>
+					<command name="sethome"/>
+					<command name="spawnpirates"/>
+					<command name="status"/>
+					<command name="teleport"/>
+					<command name="unban"/>
+					<command name="unbanip"/>
+					<command name="unground"/>
+					<command name="unmute"/>
+					<command name="whereis"/>
+					<command name="whitelist"/>
+				</commands>
+				<users/>
+			</group>
+		</authorizationGroups>
+		<administrators>
+			<admin name="" id="0"/>
+			<admin name="admin" id="76561198034156887"/>
+			<admin name="admin" id="76561198052848328"/>
+			<admin name="admin" id="76561198072095186"/>
+			<admin name="admin" id="76561198112356464"/>
+			<admin name="admin" id="76561198133037250"/>
+		</administrators>
+	</administration>
+</Administration>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="8" numWrecks="0" numAsteroids="1292" numStations="7" influence="57.1019974" factionIndex="2000321" deathLocation="false">
+	<coordinates x="-102" y="432"/>
+	<titles>
+		<title str="Fighter Factory"/>
+		<title str="Trading Post"/>
+		<title str="${good} Factory ${size}">
+			<arg key="good">Microchip</arg>
+			<arg key="prefix">Microchip /* prefix */</arg>
+			<arg key="size">S</arg>
+			<arg key="plural">Microchips</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="good">Explosive Charge</arg>
+			<arg key="size">S</arg>
+			<arg key="plural">Explosive Charges</arg>
+			<arg key="prefix">Explosive Charge /* prefix */</arg>
+		</title>
+		<title str="Turret Factory"/>
+		<title str="Trading Post"/>
+		<title str="${good} Factory ${size}">
+			<arg key="prefix">Processor /* prefix */</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Processor</arg>
+			<arg key="plural">Processors</arg>
+		</title>
+	</titles>
+	<wormholes/>
+	<gates>
+		<coordinates x="-105" y="437"/>
+		<coordinates x="-106" y="431"/>
+		<coordinates x="-100" y="431"/>
+	</gates>
+	<shipNumbers>
+		<ships n="8" faction="2000321"/>
+	</shipNumbers>
+</view>

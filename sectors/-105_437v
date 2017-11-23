@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="7" numWrecks="19" numAsteroids="1463" numStations="5" influence="47.5849991" factionIndex="2000321" deathLocation="false">
+	<coordinates x="-105" y="437"/>
+	<titles>
+		<title str="Shipyard"/>
+		<title str="Repair Dock"/>
+		<title str="Equipment Dock"/>
+		<title str="Resource Depot"/>
+		<title str="${good} Mine ${size}">
+			<arg key="plural">Silicium</arg>
+			<arg key="prefix">Silicium /* prefix */</arg>
+			<arg key="good">Silicium</arg>
+			<arg key="size">S</arg>
+		</title>
+	</titles>
+	<wormholes/>
+	<gates>
+		<coordinates x="-102" y="432"/>
+		<coordinates x="-110" y="432"/>
+		<coordinates x="-102" y="442"/>
+	</gates>
+	<shipNumbers>
+		<ships n="7" faction="2000321"/>
+	</shipNumbers>
+</view>
