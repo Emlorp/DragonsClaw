@@ -1,0 +1,124 @@
+2017-11-22 19-43-23| Enabled Traces: 
+2017-11-22 19-43-23| Avorion server Beta 0.14.5 r9490 running on Windows 8.1+ starting up in "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw"
+2017-11-22 19-43-23| CPU: GenuineIntel 8 Cores
+2017-11-22 19-43-23| RAM: 16GB
+2017-11-22 19-43-23| name: Kingprawn's Server
+2017-11-22 19-43-23| seed: ViolentAbyss
+2017-11-22 19-43-23| port: 27000
+2017-11-22 19-43-23| max online players: 10
+2017-11-22 19-43-23| save interval: 180
+2017-11-22 19-43-23| broadcast interval: 5
+2017-11-22 19-43-23| max loaded sector time: 300
+2017-11-22 19-43-23| weak update: yes
+2017-11-22 19-43-23| worker threads: 7
+2017-11-22 19-43-23| generator threads: 2
+2017-11-22 19-43-23| script background threads: 2
+2017-11-22 19-43-23| difficulty: Normal
+2017-11-22 19-43-23| infiniteResources: no
+2017-11-22 19-43-23| collision: 1
+2017-11-22 19-43-23| access list: Blacklist
+2017-11-22 19-43-23| public: yes
+2017-11-22 19-43-23| authentication: yes
+2017-11-22 19-43-23| listed: no
+2017-11-22 19-43-23| steam networking: yes
+2017-11-22 19-43-23| server will exit once all admins logged out.
+2017-11-22 19-43-23| administrators: '' 'admin' 'admin' 'admin' 'admin' 'admin' 
+2017-11-22 19-43-23| Initializing sector database...
+2017-11-22 19-43-23| Initializing faction database...
+2017-11-22 19-43-23| "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\alliances\alliance_7.dat": All instances have the same timestamp. This can lead to issues when loading.
+2017-11-22 19-43-23| "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\players\player_1.dat": All instances have the same timestamp. This can lead to issues when loading.
+2017-11-22 19-43-23| "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\players\player_3.dat": All instances have the same timestamp. This can lead to issues when loading.
+2017-11-22 19-43-23| "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\players\player_4.dat": All instances have the same timestamp. This can lead to issues when loading.
+2017-11-22 19-43-23| "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\players\player_5.dat": All instances have the same timestamp. This can lead to issues when loading.
+2017-11-22 19-43-24| "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\players\player_1.dat": All instances have the same timestamp. This can lead to issues when loading.
+2017-11-22 19-43-24| "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\players\player_3.dat": All instances have the same timestamp. This can lead to issues when loading.
+2017-11-22 19-43-24| "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\players\player_4.dat": All instances have the same timestamp. This can lead to issues when loading.
+2017-11-22 19-43-24| "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\players\player_5.dat": All instances have the same timestamp. This can lead to issues when loading.
+2017-11-22 19-43-24| Initializing galaxy...
+2017-11-22 19-43-24| Starting up 7 worker threads...
+2017-11-22 19-43-24| Starting up 2 script background threads...
+2017-11-22 19-43-24| Loading jumping entities... 
+2017-11-22 19-43-24| Loading groups...
+2017-11-22 19-43-24| Galaxy initialized.
+2017-11-22 19-43-24| Loading global variables...
+2017-11-22 19-43-24| Setting startup script...
+2017-11-22 19-43-24| Initializing networking...
+2017-11-22 19-43-24| Listed server version: 0.14.5.9490
+2017-11-22 19-43-24| Game Port: 27000
+2017-11-22 19-43-24| Steam Port: 27021
+2017-11-22 19-43-24| Steam Query Port: 27020
+2017-11-22 19-43-24| Query Port: 27003
+2017-11-22 19-43-24| 
+2017-11-22 19-43-24| Server UDP: Error receiving from 127.0.0.1, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-11-22 19-43-24| Installed Steam exception handler
+2017-11-22 19-43-24| Warning: No RCON password set. RCON disabled.
+2017-11-22 19-43-24| Server startup complete.
+2017-11-22 19-43-25| Server connected to Steam successfully
+2017-11-22 19-43-25| Server is VAC Secure!
+2017-11-22 19-43-25| Game Server Steam ID: 90112053805300739
+2017-11-22 19-43-26| OnP2PSessionRequest from 76561198052848328
+2017-11-22 19-43-29| Steam authentication confirmed for 76561198052848328
+2017-11-22 19-43-29| Authentication successful for 76561198052848328
+2017-11-22 19-43-29| Connection to player established
+2017-11-22 19-43-29| Connection accepted from 192.168.1.17:0
+2017-11-22 19-43-31| "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\players\player_3.dat": All instances have the same timestamp. This can lead to issues when loading.
+2017-11-22 19-43-31| "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\players\player_3.dat": All instances have the same timestamp. This can lead to issues when loading.
+2017-11-22 19-43-31| "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\alliances\alliance_7.dat": All instances have the same timestamp. This can lead to issues when loading.
+2017-11-22 19-43-31| <Server> Player Kingprawn joined the galaxy
+2017-11-22 19-43-31| Player logged in: Kingprawn, index: 3
+2017-11-22 19-43-32| scheduled save for sector (-93:402), 0x77b3fd0, entities: 423
+2017-11-22 19-43-32| saving sector (-93:402)
+2017-11-22 19-43-32| "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\players\player_1.dat": All instances have the same timestamp. This can lead to issues when loading.
+2017-11-22 19-43-32| "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\players\player_1.dat": All instances have the same timestamp. This can lead to issues when loading.
+2017-11-22 19-43-32| "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\players\player_4.dat": All instances have the same timestamp. This can lead to issues when loading.
+2017-11-22 19-43-32| "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\players\player_4.dat": All instances have the same timestamp. This can lead to issues when loading.
+2017-11-22 19-43-32| "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\players\player_5.dat": All instances have the same timestamp. This can lead to issues when loading.
+2017-11-22 19-43-32| "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\players\player_5.dat": All instances have the same timestamp. This can lead to issues when loading.
+2017-11-22 19-43-32| player events roughly every 11.43 minutes
+2017-11-22 19-43-32| sector (-93:402) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-93_402"
+2017-11-22 19-43-32| Restoring 3's craft Krillin
+2017-11-22 19-43-32| Player Kingprawn moved to sector (-93:402) server time taken for change: 24ms
+2017-11-22 19-43-32| scheduled save for sector (-93:402), 0x77b3fd0, entities: 429
+2017-11-22 19-43-32| saving sector (-93:402)
+2017-11-22 19-43-32| sector (-93:402) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-93_402"
+2017-11-22 19-43-33| scheduled save for sector (-88:408), 0x1277e040, entities: 1138
+2017-11-22 19-43-33| saving sector (-88:408)
+2017-11-22 19-43-33| sector (-88:408) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-88_408"
+2017-11-22 19-43-33| Generated bulletin!
+2017-11-22 19-43-34| Player at Kingprawn has no script number '6'.
+2017-11-22 19-43-35| <> You have no sector selected.
+2017-11-22 19-43-37| <Server> Player Kingprawn left the galaxy
+2017-11-22 19-43-37| Player logged off: Kingprawn, index: 3: 
+2017-11-22 19-43-37| Server is shutting down.
+2017-11-22 19-43-37| Saving settings...
+2017-11-22 19-43-37| Saving script values...
+2017-11-22 19-43-37| Saving factions...
+2017-11-22 19-43-37| Saving sectors...
+2017-11-22 19-43-37| Saving jumping ships...
+2017-11-22 19-43-37| scheduled save for sector (0:0), 0x104e220, entities: 0
+2017-11-22 19-43-37| saving sector (0:0)
+2017-11-22 19-43-37| sector (0:0) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\jumps.dat"
+2017-11-22 19-43-37| Saving groups...
+2017-11-22 19-43-37| Saving settings...
+2017-11-22 19-43-37| waiting for unfinished sector generation jobs...
+2017-11-22 19-43-37| waiting for unfinished sector save jobs...
+2017-11-22 19-43-37| scheduled save for sector (-93:402), 0x77b3fd0, entities: 429
+2017-11-22 19-43-37| saving sector (-93:402)
+2017-11-22 19-43-37| sector (-93:402) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-93_402"
+2017-11-22 19-43-37| scheduled save for sector (-88:408), 0x1277e040, entities: 1138
+2017-11-22 19-43-37| saving sector (-88:408)
+2017-11-22 19-43-37| Received valid shutdown message, shutting down.
+2017-11-22 19-43-38| sector (-88:408) saved to "C:\Users\kingp\AppData\Roaming\Avorion\galaxies\Dragons Claw\sectors\-88_408"
+2017-11-22 19-43-38| shutting down rcon...
+2017-11-22 19-43-38| shutting down networking...
+2017-11-22 19-43-38| Ending authentication session of 76561198052848328
+2017-11-22 19-43-38| UDP closed
+2017-11-22 19-43-38| Server UDP: Connection closed
+2017-11-22 19-43-38| cleaning up communicators...
+2017-11-22 19-43-38| waiting for unfinished sector generation jobs...
+2017-11-22 19-43-38| waiting for unfinished sector save jobs...
+2017-11-22 19-43-38| shutting down galaxy...
+2017-11-22 19-43-38| shutting down faction database...
+2017-11-22 19-43-38| shutting down sector database...
+2017-11-22 19-43-38| cleaning up timers...
+2017-11-22 19-43-38| Server shutdown successful.
