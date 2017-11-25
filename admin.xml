@@ -45,6 +45,7 @@
 					<command name="run"/>
 					<command name="save"/>
 					<command name="sethome"/>
+					<command name="regen"/>
 					<command name="showdist"/>
 					<command name="spawnpirates"/>
 					<command name="status"/>
