@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="5" numWrecks="0" numAsteroids="615" numStations="6" influence="47.5849991" factionIndex="2000429" deathLocation="false">
+	<coordinates x="32" y="-424"/>
+	<titles>
+		<title str="Gas Collector ${size}">
+			<arg key="good">Helium</arg>
+			<arg key="size">M</arg>
+			<arg key="prefix">Helium /* prefix */</arg>
+			<arg key="plural">Helium</arg>
+		</title>
+		<title str="Gas Collector ${size}">
+			<arg key="good">Helium</arg>
+			<arg key="size">S</arg>
+			<arg key="prefix">Helium /* prefix */</arg>
+			<arg key="plural">Helium</arg>
+		</title>
+		<title str="Trading Post"/>
+		<title str="${good} Mine ${size}">
+			<arg key="good">Silicium</arg>
+			<arg key="prefix">Silicium /* prefix */</arg>
+			<arg key="plural">Silicium</arg>
+			<arg key="size">M</arg>
+		</title>
+		<title str="Noble Metal Mine ${size}">
+			<arg key="size">S</arg>
+			<arg key="prefix">Gold /* prefix */</arg>
+			<arg key="good">Gold</arg>
+			<arg key="plural">Gold</arg>
+		</title>
+		<title str="Resource Depot"/>
+	</titles>
+	<wormholes/>
+	<gates>
+		<coordinates x="27" y="-419"/>
+		<coordinates x="38" y="-424"/>
+		<coordinates x="29" y="-425"/>
+	</gates>
+	<shipNumbers>
+		<ships n="5" faction="2000429"/>
+	</shipNumbers>
+</view>

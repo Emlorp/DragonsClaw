@@ -42,10 +42,10 @@
 					<command name="pause"/>
 					<command name="playerinfo"/>
 					<command name="price"/>
+					<command name="regen"/>
 					<command name="run"/>
 					<command name="save"/>
 					<command name="sethome"/>
-					<command name="regen"/>
 					<command name="showdist"/>
 					<command name="spawnpirates"/>
 					<command name="status"/>
